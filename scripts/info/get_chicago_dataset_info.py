@@ -51,11 +51,7 @@ def get_chicago_people(path_base: str):
             {
                 "id": person_id,
                 "datasetId": dataset_id,
-                "images": [
-                    {
-                        "pathRelative": path_relative,
-                    },
-                ],
+                "imagePaths": [path_relative],
             }
         )
 
@@ -109,9 +105,17 @@ def get_chicago_info():
     return {
         "name": "chicago",
         "fullName": "Chicago Face Database",
+        "link": "https://www.chicagofaces.org/",
         "termsOfUse": (
-            "The database photographs and their accompanying information may be used "
-            "free of charge for non-commercial scientific research purposes only."
+            "(1) The database materials may be used for non-commercial scientific research purposes only.\n"
+            "(2) The database materials shall not be published (in print, electronically, or in any other "
+            "form) without written consent from the copyright holder, the University of Chicago, Center "
+            "for Decision Research.\n"
+            "(3) The database materials shall not be re-distributed to third parties, including, but not "
+            "limited to, file hosting services or cloud-based AI image manipulation services.\n"
+            "(4) No attempts may be made to identify or contact the individuals depicted in the database\n"
+            "(including, but not limited to, the use of CFD photographs in facial recognition software).\n"
+            "(5) Use of the database materials must be acknowledged in all published work."
         ),
         "collectionMethod": (
             "Individuals were recruited from the Chicago "
