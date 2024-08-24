@@ -18,6 +18,18 @@ from constants import PATH_BASE
 # d: bit below
 
 
+# Ensure images are ordered by angle
+# (modifies inplace + returns, but whatever)
+def place_image_path(image_paths, new_path, folder_name):
+    if "-a-" in folder_name:
+        image_paths[0] = new_path
+    elif "-b-" in folder_name:
+        image_paths[1] = new_path
+    elif "-c-" in folder_name:
+        image_paths[2] = new_path
+    return image_paths
+
+
 def get_muct_people(path_base: str):
     people = []
 
@@ -40,14 +52,10 @@ def get_muct_people(path_base: str):
                     "muct", folder_name.split("/")[-1], filename
                 )
 
-                dataset_id = filename[1:4]
+                id = filename[1:4]
 
-                matches = [
-                    person for person in people if person["datasetId"] == dataset_id
-                ]
+                matches = [person for person in people if person["id"] == id]
                 if len(matches) == 0:
-                    person_id = "__".join(path_relative.split("/"))[:-4]
-
                     if filename[-5:-4] == "f":
                         gender = "female"
                     else:
@@ -55,14 +63,17 @@ def get_muct_people(path_base: str):
 
                     people.append(
                         {
-                            "id": person_id,
-                            "datasetId": dataset_id,
-                            "imagePaths": [path_relative],
+                            "id": id,
+                            "imagePaths": place_image_path(
+                                ["", "", ""], path_relative, folder_name
+                            ),
                             "gender": gender,
                         }
                     )
                 else:
-                    matches[0]["imagePaths"].append(path_relative)
+                    matches[0]["imagePaths"] = place_image_path(
+                        matches[0]["imagePaths"], path_relative, folder_name
+                    )
 
     return people
 

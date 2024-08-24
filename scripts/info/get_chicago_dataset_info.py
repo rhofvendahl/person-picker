@@ -13,15 +13,15 @@ def add_demographics_chicago(people):
 
     for person in people:
         # CFD-India IDs don't have the first "-"
-        adjusted_dataset_id = person["datasetId"]
-        if person["datasetId"][0] == "I":
-            adjusted_dataset_id = person["datasetId"][:2] + person["datasetId"][3:]
+        adjusted_id = person["id"]
+        if person["id"][0] == "I":
+            adjusted_id = person["id"][:2] + person["id"][3:]
 
         # I think "IM-719-220" in the sheet was a typo, should be "IM-719-221"
-        if person["datasetId"] == "IM-719-221":
-            adjusted_dataset_id = "IM719-220"
+        if person["id"] == "IM-719-221":
+            adjusted_id = "IM719-220"
 
-        match = cfd_all_df.loc[cfd_all_df["dataset_id"] == adjusted_dataset_id].iloc[0]
+        match = cfd_all_df.loc[cfd_all_df["id"] == adjusted_id].iloc[0]
         if match["ethnicity"] != "":
             person["ethnicity"] = match["ethnicity"]
         if match["gender"] != "":
@@ -34,23 +34,20 @@ def get_chicago_people(path_base: str):
     people = []
 
     cfd_relative = "chicago/CFD"
-    for dataset_id in os.listdir(os.path.join(path_base, cfd_relative)):
-        if not os.path.isdir(os.path.join(path_base, cfd_relative, dataset_id)):
+    for id in os.listdir(os.path.join(path_base, cfd_relative)):
+        if not os.path.isdir(os.path.join(path_base, cfd_relative, id)):
             continue
 
-        for filename in os.listdir(os.path.join(path_base, cfd_relative, dataset_id)):
+        for filename in os.listdir(os.path.join(path_base, cfd_relative, id)):
             # Stop at image
             if ".jpg" in filename:
                 break
 
-        path_relative = os.path.join(cfd_relative, dataset_id, filename)
-
-        person_id = "__".join(path_relative.split("/"))[:-4]
+        path_relative = os.path.join(cfd_relative, id, filename)
 
         people.append(
             {
-                "id": person_id,
-                "datasetId": dataset_id,
+                "id": id,
                 "imagePaths": [path_relative],
             }
         )
@@ -69,23 +66,18 @@ def get_chicago_people(path_base: str):
                     path_relative = os.path.join(
                         cfd_india_relative, filename_or_folder, filename
                     )
-                    # # For these the folder has the dataset ID
-                    # dataset_id = filename[4:]
                     break
         else:
             if ".jpg" in filename_or_folder:
                 filename = filename_or_folder
                 path_relative = os.path.join(cfd_india_relative, filename)
 
-        person_id = "__".join(path_relative.split("/"))[:-4]
-
         # Cut off "CFD-" and "-N.jpg"
-        dataset_id = filename[4:-6]
+        id = filename[4:-6]
 
         people.append(
             {
-                "id": person_id,
-                "datasetId": dataset_id,
+                "id": id,
                 "images": [
                     {
                         "pathRelative": path_relative,
