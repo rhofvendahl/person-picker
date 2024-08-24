@@ -3,6 +3,7 @@ import os
 
 from constants import OUT_PATH
 from get_chicago_dataset_info import get_chicago_info
+from get_london_dataset_info import get_london_info
 from get_muct_dataset_info import get_muct_info
 
 # def get_statistics(people):
@@ -13,6 +14,7 @@ def get_dataset_info():
     return [
         get_chicago_info(),
         get_muct_info(),
+        get_london_info(),
     ]
 
 
