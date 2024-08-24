@@ -1,49 +1,32 @@
-# [
-#   {
-#     "name": "chicago",
-#     "pathBase": "src/assets/datasets/chicago/",
-#     "collectionMethod": "",
-#     "consentStatement": "",
-#     "citation": "",
-#     "statistics": {
-#       "nPeople": 1,
-#       "nMale": 1,
-#       "nCaucasian": 1,
-#       "avgAge": 28,
-#       "ageBoxPlot": [
-#         28,
-#         28,
-#         28,
-#         28,
-#         28
-#       ]
-#     },
-#     "people": [
-#       {
-#         "id": "01234567",
-#         "datasetId": "012",
-#         "gender": "male",
-#         "ethnicity": "caucasian",
-#         "age": 28,
-#         "images": [
-#           {
-#             "pathRelative": "CFD/AF-200/CFD-AF-200-228-N.jpg"
-#           }
-#         ]
-#       }
-#     ]
-#   }
-# ]
 import json
 import os
+
+import pandas as pd
 
 PATH_BASE = "src/assets/datasets"
 
 OUT_PATH = "scripts/out"
+IN_PATH = "scripts/in"
 
 
 def get_statistics(people):
     return {}
+
+
+def add_demographics_chicago(people):
+    cfd_all_df = (
+        pd.read_csv(os.path.join(IN_PATH, "chicago/cfd-all.csv"))
+        .fillna("")
+        .replace("NA", "")
+    )
+    for person in people:
+        match = cfd_all_df.loc[cfd_all_df["dataset_id"] == person["datasetId"]].iloc[0]
+        if match["ethnicity"] != "":
+            person["ethnicity"] = match["ethnicity"]
+        if match["gender"] != "":
+            person["gender"] = match["gender"]
+        if match["age"] != "":
+            person["age"] = match["age"]
 
 
 def get_chicago_people(path_base: str):
@@ -54,43 +37,19 @@ def get_chicago_people(path_base: str):
         if not os.path.isdir(os.path.join(path_base, cfd_relative, dataset_id)):
             break
 
-        demo_num = dataset_id.split("-")
-
         for filename in os.listdir(os.path.join(path_base, cfd_relative, dataset_id)):
             # Stop at image
             if ".jpg" in filename:
                 break
 
-        if demo_num[0][0] == "A":
-            ethnicity = "asian"
-        elif demo_num[0][0] == "B":
-            ethnicity = "black"
-        elif demo_num[0][0] == "L":
-            ethnicity = "latino"
-        elif demo_num[0][0] == "W":
-            ethnicity = "white"
-        else:
-            raise Exception("Unable to get chicago people: unexpected ethnicity code")
-
-        if demo_num[0][1] == "F":
-            gender = "female"
-        elif demo_num[0][1] == "M":
-            gender = "male"
-        else:
-            raise Exception("Unable to get chicago people: unexpected gender code")
-
         path_relative = os.path.join(cfd_relative, dataset_id, filename)
 
-        # Transformed path without ".jpg"
         person_id = "__".join(path_relative.split("/"))[:-4]
 
         people.append(
             {
                 "id": person_id,
                 "datasetId": dataset_id,
-                "gender": gender,
-                "ethnicity": ethnicity,
-                "age": 0,
                 "images": [
                     {
                         "pathRelative": path_relative,
@@ -98,6 +57,8 @@ def get_chicago_people(path_base: str):
                 ],
             }
         )
+
+    add_demographics_chicago(people)
 
     return people
 
