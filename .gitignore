@@ -26,5 +26,7 @@ dist-ssr
 
 # Data
 src/assets/datasets
-scripts/in
-scripts/out
+data
+
+# Python
+__pycache__

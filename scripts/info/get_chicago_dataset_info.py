@@ -1,16 +1,7 @@
-import json
 import os
 
 import pandas as pd
-
-PATH_BASE = "src/assets/datasets"
-
-OUT_PATH = "scripts/out"
-IN_PATH = "scripts/in"
-
-
-def get_statistics(people):
-    return {}
+from constants import IN_PATH, PATH_BASE
 
 
 def add_demographics_chicago(people):
@@ -115,8 +106,6 @@ def get_chicago_people(path_base: str):
 def get_chicago_info():
     people = get_chicago_people(PATH_BASE)
 
-    statistics = get_statistics(people)
-
     return {
         "name": "chicago",
         "fullName": "Chicago Face Database",
@@ -148,21 +137,4 @@ def get_chicago_info():
             "Research Methods, 47(4), 1122-1135."
         ),
         "people": people,
-        # "statistics": statistics,
     }
-
-
-def get_dataset_info():
-    return [
-        get_chicago_info(),
-    ]
-
-
-if __name__ == "__main__":
-    info = get_dataset_info()
-
-    if not os.path.exists(OUT_PATH):
-        os.mkdir(OUT_PATH)
-
-    with open(os.path.join(OUT_PATH, "dataset-info.json"), "w") as f:
-        json.dump(info, f, indent=2)
