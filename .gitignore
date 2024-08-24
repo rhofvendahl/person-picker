@@ -25,4 +25,6 @@ dist-ssr
 .netlify
 
 # Data
-src/assets/people
+src/assets/datasets
+scripts/in
+scripts/out

@@ -1,0 +1,1093 @@
+[
+  {
+    "name": "chicago",
+    "fullName": "Chicago Face Database",
+    "termsOfUse": "The database photographs and their accompanying information may be used free of charge for non-commercial scientific research purposes only.",
+    "collectionMethod": "Individuals were recruited from the Chicago Research Laboratory of the University of Chicago Booth School of Business, located in downtown Chicago. Potential volunteers were contacted via email to serve as targets for the development of a database of faces to be used for research purposes. During the recruitment process we also targeted amateur actors and used snowball sampling in order to obtain a pool of individuals whom we believed would be able to produce reliable and believable facial expressions.\n[...]\nSessions lasted approximately 20 minutes and participants were compensated $20.",
+    "consentStatement": "Upon arrival, participants were asked to carefully read a consent/release form, allowing us to use their photos for research purposes.",
+    "citation": "Ma, D. S., Correll, J., & Wittenbrink, B. (2015). The Chicago Face Database: A free stimulus set of faces and norming data. Behavior Research Methods, 47(4), 1122-1135.",
+    "people": [
+      {
+        "id": "chicago__CFD__WM-026__CFD-WM-026-019-A",
+        "datasetId": "WM-026",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-026/CFD-WM-026-019-A.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-214__CFD-WM-214-026-N",
+        "datasetId": "WM-214",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-214/CFD-WM-214-026-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-247__CFD-LF-247-051-N",
+        "datasetId": "LF-247",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-247/CFD-LF-247-051-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-247__CFD-BM-247-240-N",
+        "datasetId": "BM-247",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-247/CFD-BM-247-240-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-019__CFD-WM-019-006-HC",
+        "datasetId": "WM-019",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-019/CFD-WM-019-006-HC.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-240__CFD-LF-240-199-N",
+        "datasetId": "LF-240",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-240/CFD-LF-240-199-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AM-250__CFD-AM-250-149-N",
+        "datasetId": "AM-250",
+        "gender": "male",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AM-250/CFD-AM-250-149-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-213__CFD-WM-213-076-N",
+        "datasetId": "WM-213",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-213/CFD-WM-213-076-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-021__CFD-WM-021-004-HO",
+        "datasetId": "WM-021",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-021/CFD-WM-021-004-HO.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-240__CFD-BM-240-207-N",
+        "datasetId": "BM-240",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-240/CFD-BM-240-207-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-225__CFD-WM-225-127-N",
+        "datasetId": "WM-225",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-225/CFD-WM-225-127-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-249__CFD-BM-249-235-N",
+        "datasetId": "BM-249",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-249/CFD-BM-249-235-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-017__CFD-WM-017-005-HO",
+        "datasetId": "WM-017",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-017/CFD-WM-017-005-HO.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-249__CFD-LF-249-132-N",
+        "datasetId": "LF-249",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-249/CFD-LF-249-132-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-028__CFD-WM-028-007-HO",
+        "datasetId": "WM-028",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-028/CFD-WM-028-007-HO.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-044__CFD-BM-044-051-F",
+        "datasetId": "BM-044",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-044/CFD-BM-044-051-F.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-010__CFD-WM-010-001-N",
+        "datasetId": "WM-010",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-010/CFD-WM-010-001-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-222__CFD-WM-222-057-N",
+        "datasetId": "WM-222",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-222/CFD-WM-222-057-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-043__CFD-BM-043-072-HC",
+        "datasetId": "BM-043",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-043/CFD-BM-043-072-HC.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-225__CFD-BM-225-154-N",
+        "datasetId": "BM-225",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-225/CFD-BM-225-154-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-249__CFD-WM-249-239-N",
+        "datasetId": "WM-249",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-249/CFD-WM-249-239-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-017__CFD-BM-017-064-F",
+        "datasetId": "BM-017",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-017/CFD-BM-017-064-F.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AM-235__CFD-AM-235-241-N",
+        "datasetId": "AM-235",
+        "gender": "male",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AM-235/CFD-AM-235-241-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-028__CFD-BM-028-012-A",
+        "datasetId": "BM-028",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-028/CFD-BM-028-012-A.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-225__CFD-LF-225-164-N",
+        "datasetId": "LF-225",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-225/CFD-LF-225-164-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-010__CFD-BM-010-019-A",
+        "datasetId": "BM-010",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-010/CFD-BM-010-019-A.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-222__CFD-BM-222-173-N",
+        "datasetId": "BM-222",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-222/CFD-BM-222-173-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-222__CFD-LF-222-147-N",
+        "datasetId": "LF-222",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-222/CFD-LF-222-147-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AM-232__CFD-AM-232-251-N",
+        "datasetId": "AM-232",
+        "gender": "male",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AM-232/CFD-AM-232-251-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-026__CFD-BM-026-017-A",
+        "datasetId": "BM-026",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-026/CFD-BM-026-017-A.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-214__CFD-BM-214-075-N",
+        "datasetId": "BM-214",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-214/CFD-BM-214-075-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-214__CFD-LF-214-090-N",
+        "datasetId": "LF-214",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-214/CFD-LF-214-090-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AM-204__CFD-AM-204-122-N",
+        "datasetId": "AM-204",
+        "gender": "male",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AM-204/CFD-AM-204-122-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-247__CFD-WM-247-084-N",
+        "datasetId": "WM-247",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-247/CFD-WM-247-084-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-019__CFD-BM-019-002-N",
+        "datasetId": "BM-019",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-019/CFD-BM-019-002-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-213__CFD-BM-213-134-N",
+        "datasetId": "BM-213",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-213/CFD-BM-213-134-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-021__CFD-BM-021-021-N",
+        "datasetId": "BM-021",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-021/CFD-BM-021-021-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-240__CFD-WM-240-125-N",
+        "datasetId": "WM-240",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-240/CFD-WM-240-125-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AM-203__CFD-AM-203-086-N",
+        "datasetId": "AM-203",
+        "gender": "male",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AM-203/CFD-AM-203-086-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-213__CFD-LF-213-079-N",
+        "datasetId": "LF-213",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-213/CFD-LF-213-079-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-223__CFD-WM-223-056-N",
+        "datasetId": "WM-223",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-223/CFD-WM-223-056-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-011__CFD-WM-011-011-A",
+        "datasetId": "WM-011",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-011/CFD-WM-011-011-A.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-248__CFD-BM-248-128-N",
+        "datasetId": "BM-248",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-248/CFD-BM-248-128-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-016__CFD-WM-016-008-A",
+        "datasetId": "WM-016",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-016/CFD-WM-016-008-A.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-224__CFD-WM-224-197-N",
+        "datasetId": "WM-224",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-224/CFD-WM-224-197-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-045__CFD-BM-045-004-N",
+        "datasetId": "BM-045",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-045/CFD-BM-045-004-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-029__CFD-WM-029-023-N",
+        "datasetId": "WM-029",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-029/CFD-WM-029-023-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-248__CFD-LF-248-160-N",
+        "datasetId": "LF-248",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-248/CFD-LF-248-160-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AM-251__CFD-AM-251-124-N",
+        "datasetId": "AM-251",
+        "gender": "male",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AM-251/CFD-AM-251-124-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-020__CFD-WM-020-003-HO",
+        "datasetId": "WM-020",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-020/CFD-WM-020-003-HO.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-212__CFD-WM-212-097-N",
+        "datasetId": "WM-212",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-212/CFD-WM-212-097-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-241__CFD-LF-241-188-N",
+        "datasetId": "LF-241",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-241/CFD-LF-241-188-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-241__CFD-BM-241-235-N",
+        "datasetId": "BM-241",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-241/CFD-BM-241-235-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-246__CFD-LF-246-129-N",
+        "datasetId": "LF-246",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-246/CFD-LF-246-129-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-215__CFD-WM-215-041-N",
+        "datasetId": "WM-215",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-215/CFD-WM-215-041-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-246__CFD-BM-246-192-N",
+        "datasetId": "BM-246",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-246/CFD-BM-246-192-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-018__CFD-WM-018-007-A",
+        "datasetId": "WM-018",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-018/CFD-WM-018-007-A.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-020__CFD-BM-020-024-HC",
+        "datasetId": "BM-020",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-020/CFD-BM-020-024-HC.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-212__CFD-BM-212-117-N",
+        "datasetId": "BM-212",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-212/CFD-BM-212-117-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-212__CFD-LF-212-066-N",
+        "datasetId": "LF-212",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-212/CFD-LF-212-066-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-241__CFD-WM-241-072-N",
+        "datasetId": "WM-241",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-241/CFD-WM-241-072-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AM-202__CFD-AM-202-079-N",
+        "datasetId": "AM-202",
+        "gender": "male",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AM-202/CFD-AM-202-079-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-215__CFD-BM-215-155-N",
+        "datasetId": "BM-215",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-215/CFD-BM-215-155-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-027__CFD-BM-027-001-N",
+        "datasetId": "BM-027",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-027/CFD-BM-027-001-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AM-205__CFD-AM-205-153-N",
+        "datasetId": "AM-205",
+        "gender": "male",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AM-205/CFD-AM-205-153-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-018__CFD-BM-018-004-HC",
+        "datasetId": "BM-018",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-018/CFD-BM-018-004-HC.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-215__CFD-LF-215-157-N",
+        "datasetId": "LF-215",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-215/CFD-LF-215-157-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-223__CFD-BM-223-171-N",
+        "datasetId": "BM-223",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-223/CFD-BM-223-171-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-011__CFD-BM-011-016-N",
+        "datasetId": "BM-011",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-011/CFD-BM-011-016-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AM-233__CFD-AM-233-236-N",
+        "datasetId": "AM-233",
+        "gender": "male",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AM-233/CFD-AM-233-236-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-223__CFD-LF-223-064-N",
+        "datasetId": "LF-223",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-223/CFD-LF-223-064-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WM-248__CFD-WM-248-036-N",
+        "datasetId": "WM-248",
+        "gender": "male",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WM-248/CFD-WM-248-036-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-016__CFD-BM-016-036-N",
+        "datasetId": "BM-016",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-016/CFD-BM-016-036-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-224__CFD-BM-224-073-N",
+        "datasetId": "BM-224",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-224/CFD-BM-224-073-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LF-224__CFD-LF-224-176-N",
+        "datasetId": "LF-224",
+        "gender": "female",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LF-224/CFD-LF-224-176-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AM-234__CFD-AM-234-355-N",
+        "datasetId": "AM-234",
+        "gender": "male",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AM-234/CFD-AM-234-355-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BM-029__CFD-BM-029-020-F",
+        "datasetId": "BM-029",
+        "gender": "male",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BM-029/CFD-BM-029-020-F.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BF-031__CFD-BF-031-002-N",
+        "datasetId": "BF-031",
+        "gender": "female",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BF-031/CFD-BF-031-002-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BF-203__CFD-BF-203-184-N",
+        "datasetId": "BF-203",
+        "gender": "female",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BF-203/CFD-BF-203-184-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LM-203__CFD-LM-203-026-N",
+        "datasetId": "LM-203",
+        "gender": "male",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LM-203/CFD-LM-203-026-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__WF-250__CFD-WF-250-167-N",
+        "datasetId": "WF-250",
+        "gender": "female",
+        "ethnicity": "white",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/WF-250/CFD-WF-250-167-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AF-213__CFD-AF-213-126-N",
+        "datasetId": "AF-213",
+        "gender": "female",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AF-213/CFD-AF-213-126-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BF-204__CFD-BF-204-189-N",
+        "datasetId": "BF-204",
+        "gender": "female",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BF-204/CFD-BF-204-189-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BF-036__CFD-BF-036-027-N",
+        "datasetId": "BF-036",
+        "gender": "female",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BF-036/CFD-BF-036-027-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AF-214__CFD-AF-214-139-N",
+        "datasetId": "AF-214",
+        "gender": "female",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AF-214/CFD-AF-214-139-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BF-009__CFD-BF-009-008-HC",
+        "datasetId": "BF-009",
+        "gender": "female",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BF-009/CFD-BF-009-008-HC.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LM-204__CFD-LM-204-001-N",
+        "datasetId": "LM-204",
+        "gender": "male",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LM-204/CFD-LM-204-001-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__BF-232__CFD-BF-232-187-N",
+        "datasetId": "BF-232",
+        "gender": "female",
+        "ethnicity": "black",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/BF-232/CFD-BF-232-187-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__AF-222__CFD-AF-222-134-N",
+        "datasetId": "AF-222",
+        "gender": "female",
+        "ethnicity": "asian",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/AF-222/CFD-AF-222-134-N.jpg"
+          }
+        ]
+      },
+      {
+        "id": "chicago__CFD__LM-232__CFD-LM-232-204-N",
+        "datasetId": "LM-232",
+        "gender": "male",
+        "ethnicity": "latino",
+        "age": 0,
+        "images": [
+          {
+            "pathRelative": "chicago/CFD/LM-232/CFD-LM-232-204-N.jpg"
+          }
+        ]
+      }
+    ],
+    "statistics": {}
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "group": "us",
+    "nPeople": 10,
+    "nMale": 5,
+    "nCaucasian": 5,
+    "avgAge": 40,
+    "ageBoxPlot": [
+      0,
+      15,
+      40,
+      60,
+      100
+    ]
+  },
+  {
+    "group": "world"
+  }
+]

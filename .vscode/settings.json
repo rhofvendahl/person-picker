@@ -9,6 +9,15 @@
   ],
   "editor.tabSize": 2,
   "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    },
     "editor.tabSize": 4
+  },
+  "isort.args": ["--profile", "black"],
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
   }
 }
