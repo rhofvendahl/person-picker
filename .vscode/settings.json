@@ -19,5 +19,6 @@
   "isort.args": ["--profile", "black"],
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
-  }
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
 }

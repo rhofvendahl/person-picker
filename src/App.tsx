@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Route, Routes } from "react-router-dom";
+import { Navigate, Route, Routes } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faPerson,
@@ -7,16 +7,18 @@ import {
   faStar,
 } from "@fortawesome/free-solid-svg-icons";
 
-import PersonPage from "./components/person/PersonPage";
 import StarsPage from "./components/stars/StarsPage";
 import PeoplePage from "./components/people/PeoplePage";
 import PageButton from "./components/layout/PageButton";
-import { Person } from "./services/personService";
+import { getDatasets, Person } from "./services/personService";
+import PersonPage from "./components/person/PersonPage";
 
 export type Page = "people" | "person" | "stars";
 
 const App = () => {
-  const [activePerson] = useState<Person | null>({ id: "some-person-id" });
+  const datasets = getDatasets();
+
+  const [activePerson] = useState<Person | null>(null);
 
   return (
     <div className="bg-gray-900 h-full text-white flex flex-col">
@@ -39,7 +41,11 @@ const App = () => {
       </div>
       <div className="flex-1">
         <Routes>
-          <Route path="/people" element={<PeoplePage />}></Route>
+          <Route path="/" element={<Navigate to="/people" />} />
+          <Route
+            path="/people"
+            element={<PeoplePage datasets={datasets} />}
+          ></Route>
           <Route path="/people/:personId" element={<PersonPage />}></Route>
           <Route path="/stars" element={<StarsPage />}></Route>
         </Routes>

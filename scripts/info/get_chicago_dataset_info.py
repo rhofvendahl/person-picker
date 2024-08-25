@@ -75,16 +75,7 @@ def get_chicago_people(path_base: str):
         # Cut off "CFD-" and "-N.jpg"
         id = filename[4:-6]
 
-        people.append(
-            {
-                "id": id,
-                "images": [
-                    {
-                        "pathRelative": path_relative,
-                    },
-                ],
-            }
-        )
+        people.append({"id": id, "imagePaths": [path_relative]})
 
     add_demographics_chicago(people)
 
