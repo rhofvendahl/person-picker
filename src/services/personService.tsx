@@ -1,4 +1,4 @@
-import datasetInfo from "../data/dataset-info.json";
+import datasetInfo from "../assets/json/dataset-info.json";
 
 const BASE_URL = "src/assets/datasets";
 
