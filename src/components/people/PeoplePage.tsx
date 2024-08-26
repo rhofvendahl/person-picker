@@ -47,7 +47,6 @@ const PeoplePage = ({
         </div>
       </div>
       <div className="h-14 bg-gray-800 flex items-center justify-center gap-6">
-        <button className="rounded px-2 py-1 bg-gray-500">Button 1</button>
         <label>
           <span className="text-gray-200 mr-1">Show</span>
           <input
@@ -69,11 +68,17 @@ const PeoplePage = ({
         <label>
           <span className="text-gray-200 mr-1">Set</span>
           <select
-            className="p-1 rounded bg-gray-500 h-8"
+            className="p-1 rounded bg-gray-500"
             value={datasetName}
-            onChange={(event) =>
-              setDatasetName(event.target.value as DatasetName)
-            }
+            onChange={(event) => {
+              setDatasetName(event.target.value as DatasetName);
+              setPeople(
+                sampleDataset(
+                  getDatasetByName(datasets, event.target.value as DatasetName),
+                  people.length
+                )
+              );
+            }}
           >
             <option value="chicago">Chicago</option>
             <option value="london">London</option>
@@ -84,7 +89,12 @@ const PeoplePage = ({
         <button
           className="rounded px-2 py-1 bg-green-500"
           onClick={() =>
-            setPeople(sampleDataset(getDatasetByName(datasets, datasetName), 3))
+            setPeople(
+              sampleDataset(
+                getDatasetByName(datasets, datasetName),
+                people.length
+              )
+            )
           }
         >
           Go
