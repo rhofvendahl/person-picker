@@ -48,18 +48,39 @@ const PeoplePage = ({
       </div>
       <div className="h-14 bg-gray-800 flex items-center justify-center gap-6">
         <button className="rounded px-2 py-1 bg-gray-500">Button 1</button>
-        <select
-          className="p-1 rounded bg-gray-500 h-8"
-          value={datasetName}
-          onChange={(event) =>
-            setDatasetName(event.target.value as DatasetName)
-          }
-        >
-          <option value="chicago">Chicago</option>
-          <option value="london">London</option>
-          <option value="muct">MUCT</option>
-          <option value="tpdne">TPDNE</option>
-        </select>
+        <label>
+          <span className="text-gray-200 mr-1">Show</span>
+          <input
+            className="rounded bg-gray-500 pl-1 w-9"
+            type="number"
+            min="1"
+            max="5"
+            value={people.length}
+            onChange={(event) =>
+              setPeople(
+                sampleDataset(
+                  getDatasetByName(datasets, datasetName),
+                  parseInt(event.target.value)
+                )
+              )
+            }
+          />
+        </label>
+        <label>
+          <span className="text-gray-200 mr-1">Set</span>
+          <select
+            className="p-1 rounded bg-gray-500 h-8"
+            value={datasetName}
+            onChange={(event) =>
+              setDatasetName(event.target.value as DatasetName)
+            }
+          >
+            <option value="chicago">Chicago</option>
+            <option value="london">London</option>
+            <option value="muct">MUCT</option>
+            <option value="tpdne">TPDNE</option>
+          </select>
+        </label>
         <button
           className="rounded px-2 py-1 bg-green-500"
           onClick={() =>
