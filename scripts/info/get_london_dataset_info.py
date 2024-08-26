@@ -6,7 +6,11 @@ from constants import PATH_BASE
 # Ensure images are ordered by angle
 # (modifies inplace + returns, but whatever)
 def place_image_path(image_paths, new_path, filename):
+    # NOTE: There are actually 5 neutral and 5 smiling, but for now I'm discarding the smiling
     place = int(filename[-6:-4]) - 1
+    if place > 4:
+        return image_paths
+
     image_paths[place] = new_path
     return image_paths
 
@@ -33,7 +37,7 @@ def get_london_people(path_base: str):
                     {
                         "id": id,
                         "imagePaths": place_image_path(
-                            [""] * 10,
+                            [""] * 5,
                             path_relative,
                             filename,
                         ),
