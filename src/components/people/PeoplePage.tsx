@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { Link } from "react-router-dom";
 
 import {
@@ -22,7 +23,20 @@ const PeoplePage = ({
   datasetName: DatasetName;
   setDatasetName: (datasetName: DatasetName) => void;
 }) => {
-  console.log("DATSET NAME", datasetName);
+  useEffect(() => {
+    const handleSpace = (event: KeyboardEvent) => {
+      if (event.code === "Space") {
+        setPeople(
+          sampleDataset(getDatasetByName(datasets, datasetName), people.length)
+        );
+      }
+    };
+    window.addEventListener("keydown", handleSpace);
+
+    // Remove handler on unmount
+    return () => window.removeEventListener("keydown", handleSpace);
+  }, [datasets, datasetName, people.length, setPeople]);
+
   return (
     <div className="h-full flex flex-col">
       <div className="flex-1 flex flex-col justify-center">
