@@ -39,7 +39,7 @@ const PeoplePage = ({
               >
                 <img
                   src={getPrimaryImagePath(datasetName, person)}
-                  className="rounded object-cover aspect-square"
+                  className="rounded object-cover aspect-square max-h-96 m-auto"
                 />
               </Link>
             </div>
