@@ -31,7 +31,9 @@ const PageButton = ({
     <Link
       to={link}
       className={`px-1 rounded border ${
-        active ? "bg-gray-600 border-gray-600" : "text-gray-500 border-gray-500"
+        active
+          ? "bg-gray-600 text-gray-200 border-gray-600"
+          : "text-gray-500 border-gray-500"
       }`}
       state={linkState}
     >

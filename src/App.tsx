@@ -82,7 +82,7 @@ const App = () => {
   };
 
   return (
-    <div className="bg-gray-900 h-full text-white flex flex-col">
+    <div className="bg-gray-900 h-full flex flex-col">
       <div className="bg-gray-850 h-10 flex gap-2 items-center justify-end px-2">
         <PageButton
           text="People"

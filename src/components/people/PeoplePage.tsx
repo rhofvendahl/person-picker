@@ -22,6 +22,7 @@ const PeoplePage = ({
   datasetName: DatasetName;
   setDatasetName: (datasetName: DatasetName) => void;
 }) => {
+  console.log("DATSET NAME", datasetName);
   return (
     <div className="h-full flex flex-col">
       <div className="flex-1 flex flex-col justify-center">
@@ -46,9 +47,9 @@ const PeoplePage = ({
         </div>
       </div>
       <div className="h-14 bg-gray-800 flex items-center justify-center gap-6">
-        <button className="rounded px-2 py-1 bg-gray-600">Button 1</button>
+        <button className="rounded px-2 py-1 bg-gray-500">Button 1</button>
         <select
-          className="p-1 rounded border border-gray-200 w-full h-8"
+          className="p-1 rounded bg-gray-500 h-8"
           value={datasetName}
           onChange={(event) =>
             setDatasetName(event.target.value as DatasetName)
@@ -60,7 +61,7 @@ const PeoplePage = ({
           <option value="tpdne">TPDNE</option>
         </select>
         <button
-          className="rounded px-2 py-1 bg-green-600"
+          className="rounded px-2 py-1 bg-green-500"
           onClick={() =>
             setPeople(sampleDataset(getDatasetByName(datasets, datasetName), 3))
           }
