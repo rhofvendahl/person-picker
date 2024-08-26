@@ -39,8 +39,8 @@ def get_chicago_people(path_base: str):
             continue
 
         for filename in os.listdir(os.path.join(path_base, cfd_relative, id)):
-            # Stop at image
-            if ".jpg" in filename:
+            # Stop at "neutral" image
+            if "N.jpg" in filename:
                 break
 
         path_relative = os.path.join(cfd_relative, id, filename)

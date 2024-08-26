@@ -11,7 +11,7 @@
       {
         "id": "WM-026",
         "imagePaths": [
-          "chicago/CFD/WM-026/CFD-WM-026-019-A.jpg"
+          "chicago/CFD/WM-026/CFD-WM-026-001-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -43,7 +43,7 @@
       {
         "id": "WM-019",
         "imagePaths": [
-          "chicago/CFD/WM-019/CFD-WM-019-006-HC.jpg"
+          "chicago/CFD/WM-019/CFD-WM-019-003-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -75,7 +75,7 @@
       {
         "id": "WM-021",
         "imagePaths": [
-          "chicago/CFD/WM-021/CFD-WM-021-004-HO.jpg"
+          "chicago/CFD/WM-021/CFD-WM-021-001-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -107,7 +107,7 @@
       {
         "id": "WM-017",
         "imagePaths": [
-          "chicago/CFD/WM-017/CFD-WM-017-005-HO.jpg"
+          "chicago/CFD/WM-017/CFD-WM-017-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -123,7 +123,7 @@
       {
         "id": "WM-028",
         "imagePaths": [
-          "chicago/CFD/WM-028/CFD-WM-028-007-HO.jpg"
+          "chicago/CFD/WM-028/CFD-WM-028-003-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -131,7 +131,7 @@
       {
         "id": "BM-044",
         "imagePaths": [
-          "chicago/CFD/BM-044/CFD-BM-044-051-F.jpg"
+          "chicago/CFD/BM-044/CFD-BM-044-001-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -155,7 +155,7 @@
       {
         "id": "BM-043",
         "imagePaths": [
-          "chicago/CFD/BM-043/CFD-BM-043-072-HC.jpg"
+          "chicago/CFD/BM-043/CFD-BM-043-071-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -179,7 +179,7 @@
       {
         "id": "BM-017",
         "imagePaths": [
-          "chicago/CFD/BM-017/CFD-BM-017-064-F.jpg"
+          "chicago/CFD/BM-017/CFD-BM-017-021-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -195,7 +195,7 @@
       {
         "id": "BM-028",
         "imagePaths": [
-          "chicago/CFD/BM-028/CFD-BM-028-012-A.jpg"
+          "chicago/CFD/BM-028/CFD-BM-028-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -211,7 +211,7 @@
       {
         "id": "BM-010",
         "imagePaths": [
-          "chicago/CFD/BM-010/CFD-BM-010-019-A.jpg"
+          "chicago/CFD/BM-010/CFD-BM-010-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -243,7 +243,7 @@
       {
         "id": "BM-026",
         "imagePaths": [
-          "chicago/CFD/BM-026/CFD-BM-026-017-A.jpg"
+          "chicago/CFD/BM-026/CFD-BM-026-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -339,7 +339,7 @@
       {
         "id": "WM-011",
         "imagePaths": [
-          "chicago/CFD/WM-011/CFD-WM-011-011-A.jpg"
+          "chicago/CFD/WM-011/CFD-WM-011-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -355,7 +355,7 @@
       {
         "id": "WM-016",
         "imagePaths": [
-          "chicago/CFD/WM-016/CFD-WM-016-008-A.jpg"
+          "chicago/CFD/WM-016/CFD-WM-016-001-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -403,7 +403,7 @@
       {
         "id": "WM-020",
         "imagePaths": [
-          "chicago/CFD/WM-020/CFD-WM-020-003-HO.jpg"
+          "chicago/CFD/WM-020/CFD-WM-020-001-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -459,7 +459,7 @@
       {
         "id": "WM-018",
         "imagePaths": [
-          "chicago/CFD/WM-018/CFD-WM-018-007-A.jpg"
+          "chicago/CFD/WM-018/CFD-WM-018-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -467,7 +467,7 @@
       {
         "id": "BM-020",
         "imagePaths": [
-          "chicago/CFD/BM-020/CFD-BM-020-024-HC.jpg"
+          "chicago/CFD/BM-020/CFD-BM-020-001-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -531,7 +531,7 @@
       {
         "id": "BM-018",
         "imagePaths": [
-          "chicago/CFD/BM-018/CFD-BM-018-004-HC.jpg"
+          "chicago/CFD/BM-018/CFD-BM-018-001-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -619,7 +619,7 @@
       {
         "id": "BM-029",
         "imagePaths": [
-          "chicago/CFD/BM-029/CFD-BM-029-020-F.jpg"
+          "chicago/CFD/BM-029/CFD-BM-029-024-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -691,7 +691,7 @@
       {
         "id": "BF-009",
         "imagePaths": [
-          "chicago/CFD/BF-009/CFD-BF-009-008-HC.jpg"
+          "chicago/CFD/BF-009/CFD-BF-009-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -731,7 +731,7 @@
       {
         "id": "BF-007",
         "imagePaths": [
-          "chicago/CFD/BF-007/CFD-BF-007-004-HO.jpg"
+          "chicago/CFD/BF-007/CFD-BF-007-001-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -763,7 +763,7 @@
       {
         "id": "BF-038",
         "imagePaths": [
-          "chicago/CFD/BF-038/CFD-BF-038-009-HC.jpg"
+          "chicago/CFD/BF-038/CFD-BF-038-037-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -779,7 +779,7 @@
       {
         "id": "WF-007",
         "imagePaths": [
-          "chicago/CFD/WF-007/CFD-WF-007-005-HC.jpg"
+          "chicago/CFD/WF-007/CFD-WF-007-001-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -803,7 +803,7 @@
       {
         "id": "WF-038",
         "imagePaths": [
-          "chicago/CFD/WF-038/CFD-WF-038-033-F.jpg"
+          "chicago/CFD/WF-038/CFD-WF-038-021-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -819,7 +819,7 @@
       {
         "id": "WF-031",
         "imagePaths": [
-          "chicago/CFD/WF-031/CFD-WF-031-045-F.jpg"
+          "chicago/CFD/WF-031/CFD-WF-031-027-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -859,7 +859,7 @@
       {
         "id": "WF-036",
         "imagePaths": [
-          "chicago/CFD/WF-036/CFD-WF-036-030-HC.jpg"
+          "chicago/CFD/WF-036/CFD-WF-036-023-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -875,7 +875,7 @@
       {
         "id": "WF-009",
         "imagePaths": [
-          "chicago/CFD/WF-009/CFD-WF-009-006-HC.jpg"
+          "chicago/CFD/WF-009/CFD-WF-009-001-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -907,7 +907,7 @@
       {
         "id": "BF-039",
         "imagePaths": [
-          "chicago/CFD/BF-039/CFD-BF-039-008-HC.jpg"
+          "chicago/CFD/BF-039/CFD-BF-039-031-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -923,7 +923,7 @@
       {
         "id": "BF-001",
         "imagePaths": [
-          "chicago/CFD/BF-001/CFD-BF-001-026-A.jpg"
+          "chicago/CFD/BF-001/CFD-BF-001-025-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -955,7 +955,7 @@
       {
         "id": "BF-037",
         "imagePaths": [
-          "chicago/CFD/BF-037/CFD-BF-037-026-HO.jpg"
+          "chicago/CFD/BF-037/CFD-BF-037-022-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -979,7 +979,7 @@
       {
         "id": "BF-008",
         "imagePaths": [
-          "chicago/CFD/BF-008/CFD-BF-008-012-A.jpg"
+          "chicago/CFD/BF-008/CFD-BF-008-001-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -995,7 +995,7 @@
       {
         "id": "BF-030",
         "imagePaths": [
-          "chicago/CFD/BF-030/CFD-BF-030-009-HC.jpg"
+          "chicago/CFD/BF-030/CFD-BF-030-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -1051,7 +1051,7 @@
       {
         "id": "WF-008",
         "imagePaths": [
-          "chicago/CFD/WF-008/CFD-WF-008-005-HC.jpg"
+          "chicago/CFD/WF-008/CFD-WF-008-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -1083,7 +1083,7 @@
       {
         "id": "WF-030",
         "imagePaths": [
-          "chicago/CFD/WF-030/CFD-WF-030-031-HC.jpg"
+          "chicago/CFD/WF-030/CFD-WF-030-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -1131,7 +1131,7 @@
       {
         "id": "WF-001",
         "imagePaths": [
-          "chicago/CFD/WF-001/CFD-WF-001-009-HO.jpg"
+          "chicago/CFD/WF-001/CFD-WF-001-003-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -1163,7 +1163,7 @@
       {
         "id": "WF-023",
         "imagePaths": [
-          "chicago/CFD/WF-023/CFD-WF-023-020-HO.jpg"
+          "chicago/CFD/WF-023/CFD-WF-023-003-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -1211,7 +1211,7 @@
       {
         "id": "WF-024",
         "imagePaths": [
-          "chicago/CFD/WF-024/CFD-WF-024-006-HO.jpg"
+          "chicago/CFD/WF-024/CFD-WF-024-003-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -1219,7 +1219,7 @@
       {
         "id": "BF-048",
         "imagePaths": [
-          "chicago/CFD/BF-048/CFD-BF-048-005-HO.jpg"
+          "chicago/CFD/BF-048/CFD-BF-048-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -1235,7 +1235,7 @@
       {
         "id": "BF-041",
         "imagePaths": [
-          "chicago/CFD/BF-041/CFD-BF-041-004-HO.jpg"
+          "chicago/CFD/BF-041/CFD-BF-041-001-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -1243,7 +1243,7 @@
       {
         "id": "WF-012",
         "imagePaths": [
-          "chicago/CFD/WF-012/CFD-WF-012-017-F.jpg"
+          "chicago/CFD/WF-012/CFD-WF-012-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -1275,7 +1275,7 @@
       {
         "id": "WF-015",
         "imagePaths": [
-          "chicago/CFD/WF-015/CFD-WF-015-014-A.jpg"
+          "chicago/CFD/WF-015/CFD-WF-015-006-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -1299,7 +1299,7 @@
       {
         "id": "BF-012",
         "imagePaths": [
-          "chicago/CFD/BF-012/CFD-BF-012-020-HC.jpg"
+          "chicago/CFD/BF-012/CFD-BF-012-001-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -1363,7 +1363,7 @@
       {
         "id": "BF-015",
         "imagePaths": [
-          "chicago/CFD/BF-015/CFD-BF-015-025-F.jpg"
+          "chicago/CFD/BF-015/CFD-BF-015-004-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -1403,7 +1403,7 @@
       {
         "id": "BF-023",
         "imagePaths": [
-          "chicago/CFD/BF-023/CFD-BF-023-014-F.jpg"
+          "chicago/CFD/BF-023/CFD-BF-023-010-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -1475,7 +1475,7 @@
       {
         "id": "BF-047",
         "imagePaths": [
-          "chicago/CFD/BF-047/CFD-BF-047-004-HC.jpg"
+          "chicago/CFD/BF-047/CFD-BF-047-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -1523,7 +1523,7 @@
       {
         "id": "WF-013",
         "imagePaths": [
-          "chicago/CFD/WF-013/CFD-WF-013-009-HC.jpg"
+          "chicago/CFD/WF-013/CFD-WF-013-003-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -1555,7 +1555,7 @@
       {
         "id": "BF-049",
         "imagePaths": [
-          "chicago/CFD/BF-049/CFD-BF-049-039-A.jpg"
+          "chicago/CFD/BF-049/CFD-BF-049-032-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -1571,7 +1571,7 @@
       {
         "id": "WF-025",
         "imagePaths": [
-          "chicago/CFD/WF-025/CFD-WF-025-031-F.jpg"
+          "chicago/CFD/WF-025/CFD-WF-025-019-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -1603,7 +1603,7 @@
       {
         "id": "WF-022",
         "imagePaths": [
-          "chicago/CFD/WF-022/CFD-WF-022-019-HO.jpg"
+          "chicago/CFD/WF-022/CFD-WF-022-017-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -1683,7 +1683,7 @@
       {
         "id": "BF-025",
         "imagePaths": [
-          "chicago/CFD/BF-025/CFD-BF-025-018-HC.jpg"
+          "chicago/CFD/BF-025/CFD-BF-025-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -1755,7 +1755,7 @@
       {
         "id": "BF-014",
         "imagePaths": [
-          "chicago/CFD/BF-014/CFD-BF-014-004-HO.jpg"
+          "chicago/CFD/BF-014/CFD-BF-014-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -1803,7 +1803,7 @@
       {
         "id": "BF-013",
         "imagePaths": [
-          "chicago/CFD/BF-013/CFD-BF-013-005-HC.jpg"
+          "chicago/CFD/BF-013/CFD-BF-013-001-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -1867,7 +1867,7 @@
       {
         "id": "BM-034",
         "imagePaths": [
-          "chicago/CFD/BM-034/CFD-BM-034-033-HO.jpg"
+          "chicago/CFD/BM-034/CFD-BM-034-031-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -1899,7 +1899,7 @@
       {
         "id": "BM-033",
         "imagePaths": [
-          "chicago/CFD/BM-033/CFD-BM-033-029-HO.jpg"
+          "chicago/CFD/BM-033/CFD-BM-033-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -1947,7 +1947,7 @@
       {
         "id": "BM-005",
         "imagePaths": [
-          "chicago/CFD/BM-005/CFD-BM-005-010-A.jpg"
+          "chicago/CFD/BM-005/CFD-BM-005-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -1995,7 +1995,7 @@
       {
         "id": "BM-002",
         "imagePaths": [
-          "chicago/CFD/BM-002/CFD-BM-002-011-HC.jpg"
+          "chicago/CFD/BM-002/CFD-BM-002-013-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -2027,7 +2027,7 @@
       {
         "id": "WM-002",
         "imagePaths": [
-          "chicago/CFD/WM-002/CFD-WM-002-017-A.jpg"
+          "chicago/CFD/WM-002/CFD-WM-002-009-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2059,7 +2059,7 @@
       {
         "id": "WM-034",
         "imagePaths": [
-          "chicago/CFD/WM-034/CFD-WM-034-027-F.jpg"
+          "chicago/CFD/WM-034/CFD-WM-034-030-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2091,7 +2091,7 @@
       {
         "id": "WM-033",
         "imagePaths": [
-          "chicago/CFD/WM-033/CFD-WM-033-006-HC.jpg"
+          "chicago/CFD/WM-033/CFD-WM-033-025-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2131,7 +2131,7 @@
       {
         "id": "BM-003",
         "imagePaths": [
-          "chicago/CFD/BM-003/CFD-BM-003-021-HO.jpg"
+          "chicago/CFD/BM-003/CFD-BM-003-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -2315,7 +2315,7 @@
       {
         "id": "WM-032",
         "imagePaths": [
-          "chicago/CFD/WM-032/CFD-WM-032-004-HO.jpg"
+          "chicago/CFD/WM-032/CFD-WM-032-001-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2363,7 +2363,7 @@
       {
         "id": "WM-035",
         "imagePaths": [
-          "chicago/CFD/WM-035/CFD-WM-035-018-A.jpg"
+          "chicago/CFD/WM-035/CFD-WM-035-032-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2379,7 +2379,7 @@
       {
         "id": "WM-003",
         "imagePaths": [
-          "chicago/CFD/WM-003/CFD-WM-003-003-HO.jpg"
+          "chicago/CFD/WM-003/CFD-WM-003-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2411,7 +2411,7 @@
       {
         "id": "WM-004",
         "imagePaths": [
-          "chicago/CFD/WM-004/CFD-WM-004-011-A.jpg"
+          "chicago/CFD/WM-004/CFD-WM-004-010-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2427,7 +2427,7 @@
       {
         "id": "BM-013",
         "imagePaths": [
-          "chicago/CFD/BM-013/CFD-BM-013-004-HO.jpg"
+          "chicago/CFD/BM-013/CFD-BM-013-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -2507,7 +2507,7 @@
       {
         "id": "BM-022",
         "imagePaths": [
-          "chicago/CFD/BM-022/CFD-BM-022-004-HC.jpg"
+          "chicago/CFD/BM-022/CFD-BM-022-022-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -2555,7 +2555,7 @@
       {
         "id": "BM-025",
         "imagePaths": [
-          "chicago/CFD/BM-025/CFD-BM-025-045-A.jpg"
+          "chicago/CFD/BM-025/CFD-BM-025-035-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -2619,7 +2619,7 @@
       {
         "id": "WM-022",
         "imagePaths": [
-          "chicago/CFD/WM-022/CFD-WM-022-012-F.jpg"
+          "chicago/CFD/WM-022/CFD-WM-022-001-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2651,7 +2651,7 @@
       {
         "id": "WM-025",
         "imagePaths": [
-          "chicago/CFD/WM-025/CFD-WM-025-008-A.jpg"
+          "chicago/CFD/WM-025/CFD-WM-025-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2691,7 +2691,7 @@
       {
         "id": "WM-013",
         "imagePaths": [
-          "chicago/CFD/WM-013/CFD-WM-013-006-HO.jpg"
+          "chicago/CFD/WM-013/CFD-WM-013-001-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2699,7 +2699,7 @@
       {
         "id": "BM-040",
         "imagePaths": [
-          "chicago/CFD/BM-040/CFD-BM-040-032-HC.jpg"
+          "chicago/CFD/BM-040/CFD-BM-040-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -2707,7 +2707,7 @@
       {
         "id": "WM-014",
         "imagePaths": [
-          "chicago/CFD/WM-014/CFD-WM-014-024-F.jpg"
+          "chicago/CFD/WM-014/CFD-WM-014-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2723,7 +2723,7 @@
       {
         "id": "BM-024",
         "imagePaths": [
-          "chicago/CFD/BM-024/CFD-BM-024-018-A.jpg"
+          "chicago/CFD/BM-024/CFD-BM-024-001-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -2795,7 +2795,7 @@
       {
         "id": "BM-023",
         "imagePaths": [
-          "chicago/CFD/BM-023/CFD-BM-023-039-F.jpg"
+          "chicago/CFD/BM-023/CFD-BM-023-029-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -2843,7 +2843,7 @@
       {
         "id": "BM-015",
         "imagePaths": [
-          "chicago/CFD/BM-015/CFD-BM-015-014-F.jpg"
+          "chicago/CFD/BM-015/CFD-BM-015-015-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -2891,7 +2891,7 @@
       {
         "id": "WM-041",
         "imagePaths": [
-          "chicago/CFD/WM-041/CFD-WM-041-023-HC.jpg"
+          "chicago/CFD/WM-041/CFD-WM-041-021-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2923,7 +2923,7 @@
       {
         "id": "WM-015",
         "imagePaths": [
-          "chicago/CFD/WM-015/CFD-WM-015-005-HO.jpg"
+          "chicago/CFD/WM-015/CFD-WM-015-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2931,7 +2931,7 @@
       {
         "id": "BM-046",
         "imagePaths": [
-          "chicago/CFD/BM-046/CFD-BM-046-063-F.jpg"
+          "chicago/CFD/BM-046/CFD-BM-046-006-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -2947,7 +2947,7 @@
       {
         "id": "WM-012",
         "imagePaths": [
-          "chicago/CFD/WM-012/CFD-WM-012-005-HO.jpg"
+          "chicago/CFD/WM-012/CFD-WM-012-001-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -2979,7 +2979,7 @@
       {
         "id": "WM-024",
         "imagePaths": [
-          "chicago/CFD/WM-024/CFD-WM-024-010-A.jpg"
+          "chicago/CFD/WM-024/CFD-WM-024-015-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -3027,7 +3027,7 @@
       {
         "id": "WM-023",
         "imagePaths": [
-          "chicago/CFD/WM-023/CFD-WM-023-007-HC.jpg"
+          "chicago/CFD/WM-023/CFD-WM-023-001-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -3067,7 +3067,7 @@
       {
         "id": "WF-003",
         "imagePaths": [
-          "chicago/CFD/WF-003/CFD-WF-003-025-F.jpg"
+          "chicago/CFD/WF-003/CFD-WF-003-003-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -3083,7 +3083,7 @@
       {
         "id": "BF-050",
         "imagePaths": [
-          "chicago/CFD/BF-050/CFD-BF-050-004-HO.jpg"
+          "chicago/CFD/BF-050/CFD-BF-050-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3163,7 +3163,7 @@
       {
         "id": "BF-035",
         "imagePaths": [
-          "chicago/CFD/BF-035/CFD-BF-035-007-HC.jpg"
+          "chicago/CFD/BF-035/CFD-BF-035-001-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3227,7 +3227,7 @@
       {
         "id": "BF-032",
         "imagePaths": [
-          "chicago/CFD/BF-032/CFD-BF-032-043-HO.jpg"
+          "chicago/CFD/BF-032/CFD-BF-032-038-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3267,7 +3267,7 @@
       {
         "id": "BF-004",
         "imagePaths": [
-          "chicago/CFD/BF-004/CFD-BF-004-009-HO.jpg"
+          "chicago/CFD/BF-004/CFD-BF-004-014-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3307,7 +3307,7 @@
       {
         "id": "BF-003",
         "imagePaths": [
-          "chicago/CFD/BF-003/CFD-BF-003-016-A.jpg"
+          "chicago/CFD/BF-003/CFD-BF-003-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3355,7 +3355,7 @@
       {
         "id": "WF-033",
         "imagePaths": [
-          "chicago/CFD/WF-033/CFD-WF-033-031-A.jpg"
+          "chicago/CFD/WF-033/CFD-WF-033-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -3387,7 +3387,7 @@
       {
         "id": "WF-034",
         "imagePaths": [
-          "chicago/CFD/WF-034/CFD-WF-034-016-A.jpg"
+          "chicago/CFD/WF-034/CFD-WF-034-006-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -3427,7 +3427,7 @@
       {
         "id": "WF-002",
         "imagePaths": [
-          "chicago/CFD/WF-002/CFD-WF-002-025-F.jpg"
+          "chicago/CFD/WF-002/CFD-WF-002-004-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -3435,7 +3435,7 @@
       {
         "id": "BF-051",
         "imagePaths": [
-          "chicago/CFD/BF-051/CFD-BF-051-038-HC.jpg"
+          "chicago/CFD/BF-051/CFD-BF-051-035-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3443,7 +3443,7 @@
       {
         "id": "WF-005",
         "imagePaths": [
-          "chicago/CFD/WF-005/CFD-WF-005-022-A.jpg"
+          "chicago/CFD/WF-005/CFD-WF-005-010-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -3555,7 +3555,7 @@
       {
         "id": "BF-033",
         "imagePaths": [
-          "chicago/CFD/BF-033/CFD-BF-033-031-HO.jpg"
+          "chicago/CFD/BF-033/CFD-BF-033-028-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3611,7 +3611,7 @@
       {
         "id": "BF-034",
         "imagePaths": [
-          "chicago/CFD/BF-034/CFD-BF-034-044-F.jpg"
+          "chicago/CFD/BF-034/CFD-BF-034-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3659,7 +3659,7 @@
       {
         "id": "BF-029",
         "imagePaths": [
-          "chicago/CFD/BF-029/CFD-BF-029-049-F.jpg"
+          "chicago/CFD/BF-029/CFD-BF-029-031-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3683,7 +3683,7 @@
       {
         "id": "BF-016",
         "imagePaths": [
-          "chicago/CFD/BF-016/CFD-BF-016-019-HC.jpg"
+          "chicago/CFD/BF-016/CFD-BF-016-017-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3723,7 +3723,7 @@
       {
         "id": "BF-011",
         "imagePaths": [
-          "chicago/CFD/BF-011/CFD-BF-011-011-A.jpg"
+          "chicago/CFD/BF-011/CFD-BF-011-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3739,7 +3739,7 @@
       {
         "id": "BF-018",
         "imagePaths": [
-          "chicago/CFD/BF-018/CFD-BF-018-040-HO.jpg"
+          "chicago/CFD/BF-018/CFD-BF-018-039-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3771,7 +3771,7 @@
       {
         "id": "BF-027",
         "imagePaths": [
-          "chicago/CFD/BF-027/CFD-BF-027-013-HC.jpg"
+          "chicago/CFD/BF-027/CFD-BF-027-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3803,7 +3803,7 @@
       {
         "id": "BF-020",
         "imagePaths": [
-          "chicago/CFD/BF-020/CFD-BF-020-016-HC.jpg"
+          "chicago/CFD/BF-020/CFD-BF-020-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3827,7 +3827,7 @@
       {
         "id": "WF-018",
         "imagePaths": [
-          "chicago/CFD/WF-018/CFD-WF-018-012-A.jpg"
+          "chicago/CFD/WF-018/CFD-WF-018-017-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -3859,7 +3859,7 @@
       {
         "id": "WF-027",
         "imagePaths": [
-          "chicago/CFD/WF-027/CFD-WF-027-015-F.jpg"
+          "chicago/CFD/WF-027/CFD-WF-027-003-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -3875,7 +3875,7 @@
       {
         "id": "WF-020",
         "imagePaths": [
-          "chicago/CFD/WF-020/CFD-WF-020-012-A.jpg"
+          "chicago/CFD/WF-020/CFD-WF-020-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -3907,7 +3907,7 @@
       {
         "id": "BF-045",
         "imagePaths": [
-          "chicago/CFD/BF-045/CFD-BF-045-062-HO.jpg"
+          "chicago/CFD/BF-045/CFD-BF-045-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3915,7 +3915,7 @@
       {
         "id": "WF-029",
         "imagePaths": [
-          "chicago/CFD/WF-029/CFD-WF-029-026-A.jpg"
+          "chicago/CFD/WF-029/CFD-WF-029-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -3939,7 +3939,7 @@
       {
         "id": "WF-016",
         "imagePaths": [
-          "chicago/CFD/WF-016/CFD-WF-016-021-A.jpg"
+          "chicago/CFD/WF-016/CFD-WF-016-015-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -3955,7 +3955,7 @@
       {
         "id": "BF-042",
         "imagePaths": [
-          "chicago/CFD/BF-042/CFD-BF-042-036-F.jpg"
+          "chicago/CFD/BF-042/CFD-BF-042-026-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -3971,7 +3971,7 @@
       {
         "id": "WF-011",
         "imagePaths": [
-          "chicago/CFD/WF-011/CFD-WF-011-016-F.jpg"
+          "chicago/CFD/WF-011/CFD-WF-011-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -4035,7 +4035,7 @@
       {
         "id": "BF-019",
         "imagePaths": [
-          "chicago/CFD/BF-019/CFD-BF-019-022-HO.jpg"
+          "chicago/CFD/BF-019/CFD-BF-019-001-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -4091,7 +4091,7 @@
       {
         "id": "BF-028",
         "imagePaths": [
-          "chicago/CFD/BF-028/CFD-BF-028-029-F.jpg"
+          "chicago/CFD/BF-028/CFD-BF-028-001-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -4131,7 +4131,7 @@
       {
         "id": "BF-017",
         "imagePaths": [
-          "chicago/CFD/BF-017/CFD-BF-017-011-A.jpg"
+          "chicago/CFD/BF-017/CFD-BF-017-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -4139,7 +4139,7 @@
       {
         "id": "BF-043",
         "imagePaths": [
-          "chicago/CFD/BF-043/CFD-BF-043-038-A.jpg"
+          "chicago/CFD/BF-043/CFD-BF-043-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -4147,7 +4147,7 @@
       {
         "id": "WF-010",
         "imagePaths": [
-          "chicago/CFD/WF-010/CFD-WF-010-008-HC.jpg"
+          "chicago/CFD/WF-010/CFD-WF-010-004-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -4171,7 +4171,7 @@
       {
         "id": "WF-028",
         "imagePaths": [
-          "chicago/CFD/WF-028/CFD-WF-028-026-A.jpg"
+          "chicago/CFD/WF-028/CFD-WF-028-023-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -4179,7 +4179,7 @@
       {
         "id": "BF-044",
         "imagePaths": [
-          "chicago/CFD/BF-044/CFD-BF-044-011-HC.jpg"
+          "chicago/CFD/BF-044/CFD-BF-044-034-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "female"
@@ -4203,7 +4203,7 @@
       {
         "id": "WF-017",
         "imagePaths": [
-          "chicago/CFD/WF-017/CFD-WF-017-016-HC.jpg"
+          "chicago/CFD/WF-017/CFD-WF-017-003-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -4235,7 +4235,7 @@
       {
         "id": "WF-021",
         "imagePaths": [
-          "chicago/CFD/WF-021/CFD-WF-021-013-F.jpg"
+          "chicago/CFD/WF-021/CFD-WF-021-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -4259,7 +4259,7 @@
       {
         "id": "WF-019",
         "imagePaths": [
-          "chicago/CFD/WF-019/CFD-WF-019-015-A.jpg"
+          "chicago/CFD/WF-019/CFD-WF-019-005-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -4267,7 +4267,7 @@
       {
         "id": "WF-026",
         "imagePaths": [
-          "chicago/CFD/WF-026/CFD-WF-026-008-A.jpg"
+          "chicago/CFD/WF-026/CFD-WF-026-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "female"
@@ -4291,7 +4291,7 @@
       {
         "id": "WM-001",
         "imagePaths": [
-          "chicago/CFD/WM-001/CFD-WM-001-011-HO.jpg"
+          "chicago/CFD/WM-001/CFD-WM-001-014-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -4307,7 +4307,7 @@
       {
         "id": "WM-039",
         "imagePaths": [
-          "chicago/CFD/WM-039/CFD-WM-039-004-HC.jpg"
+          "chicago/CFD/WM-039/CFD-WM-039-018-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -4331,7 +4331,7 @@
       {
         "id": "WM-006",
         "imagePaths": [
-          "chicago/CFD/WM-006/CFD-WM-006-039-F.jpg"
+          "chicago/CFD/WM-006/CFD-WM-006-002-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -4379,7 +4379,7 @@
       {
         "id": "WM-037",
         "imagePaths": [
-          "chicago/CFD/WM-037/CFD-WM-037-033-HC.jpg"
+          "chicago/CFD/WM-037/CFD-WM-037-025-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -4427,7 +4427,7 @@
       {
         "id": "BM-030",
         "imagePaths": [
-          "chicago/CFD/BM-030/CFD-BM-030-004-HO.jpg"
+          "chicago/CFD/BM-030/CFD-BM-030-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -4459,7 +4459,7 @@
       {
         "id": "BM-037",
         "imagePaths": [
-          "chicago/CFD/BM-037/CFD-BM-037-036-HO.jpg"
+          "chicago/CFD/BM-037/CFD-BM-037-033-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -4491,7 +4491,7 @@
       {
         "id": "BM-001",
         "imagePaths": [
-          "chicago/CFD/BM-001/CFD-BM-001-011-HO.jpg"
+          "chicago/CFD/BM-001/CFD-BM-001-014-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -4507,7 +4507,7 @@
       {
         "id": "BM-039",
         "imagePaths": [
-          "chicago/CFD/BM-039/CFD-BM-039-037-A.jpg"
+          "chicago/CFD/BM-039/CFD-BM-039-029-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -4571,7 +4571,7 @@
       {
         "id": "WM-036",
         "imagePaths": [
-          "chicago/CFD/WM-036/CFD-WM-036-034-HO.jpg"
+          "chicago/CFD/WM-036/CFD-WM-036-031-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -4587,7 +4587,7 @@
       {
         "id": "WM-031",
         "imagePaths": [
-          "chicago/CFD/WM-031/CFD-WM-031-038-HC.jpg"
+          "chicago/CFD/WM-031/CFD-WM-031-003-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -4619,7 +4619,7 @@
       {
         "id": "WM-038",
         "imagePaths": [
-          "chicago/CFD/WM-038/CFD-WM-038-018-F.jpg"
+          "chicago/CFD/WM-038/CFD-WM-038-003-N.jpg"
         ],
         "ethnicity": "white",
         "gender": "male"
@@ -4699,7 +4699,7 @@
       {
         "id": "BM-009",
         "imagePaths": [
-          "chicago/CFD/BM-009/CFD-BM-009-006-HC.jpg"
+          "chicago/CFD/BM-009/CFD-BM-009-002-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -4739,7 +4739,7 @@
       {
         "id": "BM-036",
         "imagePaths": [
-          "chicago/CFD/BM-036/CFD-BM-036-045-F.jpg"
+          "chicago/CFD/BM-036/CFD-BM-036-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
@@ -4771,7 +4771,7 @@
       {
         "id": "BM-031",
         "imagePaths": [
-          "chicago/CFD/BM-031/CFD-BM-031-004-HO.jpg"
+          "chicago/CFD/BM-031/CFD-BM-031-003-N.jpg"
         ],
         "ethnicity": "black",
         "gender": "male"
