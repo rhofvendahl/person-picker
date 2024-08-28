@@ -16,13 +16,17 @@ const PeoplePage = ({
   setPeople,
   datasetName,
   setDatasetName,
+  stars,
 }: {
   datasets: Dataset[];
   people: Person[];
   setPeople: (people: Person[]) => void;
   datasetName: DatasetName;
   setDatasetName: (datasetName: DatasetName) => void;
+  stars: string[];
 }) => {
+  console.log("PeoplePage stars", stars);
+
   useEffect(() => {
     const handleSpace = (event: KeyboardEvent) => {
       if (event.code === "Space") {

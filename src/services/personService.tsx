@@ -8,7 +8,6 @@ export type Person = {
   ethnicity?: string;
   gender?: string;
   age?: string;
-  starred?: boolean;
 };
 
 export type DatasetName = "chicago" | "london" | "muct" | "tpdne";
@@ -151,4 +150,40 @@ export const parseStartingState = (
   }
 
   return startingState;
+};
+
+export const getStars = (): string[] => {
+  const starsStr = localStorage.getItem("stars");
+  if (starsStr === null) {
+    return [];
+  }
+  const stars = JSON.parse(starsStr);
+  if (!Array.isArray(stars)) {
+    throw Error("Could not get stars: improperly formed cache");
+  }
+  return stars;
+};
+
+export const updateStar = ({
+  datasetName,
+  id,
+  shouldStar,
+}: {
+  datasetName: DatasetName;
+  id: string;
+  shouldStar: boolean;
+}): string[] => {
+  let stars = getStars();
+
+  const newStar = `${datasetName}/${id}`;
+
+  if (shouldStar && !stars.includes(newStar)) {
+    stars.push(newStar);
+    localStorage.setItem("stars", JSON.stringify(stars));
+  }
+  if (!shouldStar && stars.includes(newStar)) {
+    stars = stars.filter((star) => star !== newStar);
+    localStorage.setItem("stars", JSON.stringify(stars));
+  }
+  return stars;
 };

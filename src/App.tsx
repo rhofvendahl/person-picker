@@ -21,11 +21,13 @@ import {
   getDatasetByName,
   getDatasets,
   getPerson,
+  getStars,
   parseDatasetName,
   parseStartingState,
   Person,
   sampleDataset,
   StartingState,
+  updateStar,
 } from "./services/personService";
 import PersonPage from "./components/person/PersonPage";
 
@@ -58,7 +60,7 @@ const App = () => {
 
   // Fallback values
   if (initDatasetName === null) {
-    initDatasetName = "chicago";
+    initDatasetName = "london";
   }
   if (initPeople === null) {
     initPeople = sampleDataset(getDatasetByName(datasets, initDatasetName), 3);
@@ -79,6 +81,20 @@ const App = () => {
     datasetName,
     person,
     people,
+  };
+
+  const [stars, setStars] = useState(getStars());
+  const handleUpdateStar = ({
+    datasetName,
+    id,
+    shouldStar,
+  }: {
+    datasetName: DatasetName;
+    id: string;
+    shouldStar: boolean;
+  }) => {
+    const newStars = updateStar({ datasetName, id, shouldStar });
+    setStars(newStars);
   };
 
   return (
@@ -105,7 +121,18 @@ const App = () => {
       </div>
       <div className="flex-1">
         <Routes>
-          <Route path="/" element={<Navigate to="/people" />} />
+          <Route
+            path="/people/:datasetName/:personId"
+            element={
+              <PersonPage
+                datasetName={datasetName}
+                person={person}
+                nextStartingState={nextStartingState}
+                stars={stars}
+                handleUpdateStar={handleUpdateStar}
+              />
+            }
+          ></Route>
           <Route
             path="/people"
             element={
@@ -115,14 +142,12 @@ const App = () => {
                 setPeople={setPeople}
                 datasetName={datasetName}
                 setDatasetName={setDatasetName}
+                stars={stars}
               />
             }
           ></Route>
-          <Route
-            path="/people/:datasetName/:personId"
-            element={<PersonPage person={person} />}
-          ></Route>
-          <Route path="/stars" element={<StarsPage />}></Route>
+          <Route path="/stars" element={<StarsPage stars={stars} />}></Route>
+          <Route path="/" element={<Navigate to="/people" />} />
         </Routes>
       </div>
     </div>
