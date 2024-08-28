@@ -4,6 +4,7 @@ const BASE_URL = "src/assets/datasets";
 
 export type Person = {
   id: string;
+  datasetName: DatasetName;
   imagePaths: string[];
   ethnicity?: string;
   gender?: string;
@@ -186,4 +187,30 @@ export const updateStar = ({
     localStorage.setItem("stars", JSON.stringify(stars));
   }
   return stars;
+};
+
+export const getPeopleFromStars = (
+  datasets: Dataset[],
+  stars: string[]
+): Person[] => {
+  const people = [];
+  for (const star of stars) {
+    const datasetNameId = star.split("/");
+    if (datasetNameId.length !== 2) {
+      continue;
+    }
+    const datasetName = parseDatasetName(datasetNameId[0]);
+    if (datasetName === null) {
+      continue;
+    }
+    const person = getPerson({
+      datasets,
+      datasetName,
+      personId: datasetNameId[1],
+    });
+    if (person !== null) {
+      people.push(person);
+    }
+  }
+  return people;
 };

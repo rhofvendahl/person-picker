@@ -3,6 +3,8 @@ import os
 import pandas as pd
 from constants import IN_PATH, PATH_BASE
 
+DATASET_NAME = "chicago"
+
 
 def add_demographics_chicago(people):
     cfd_all_df = (
@@ -48,6 +50,7 @@ def get_chicago_people(path_base: str):
         people.append(
             {
                 "id": id,
+                "datasetName": DATASET_NAME,
                 "imagePaths": [path_relative],
             }
         )
@@ -86,7 +89,7 @@ def get_chicago_info():
     people = get_chicago_people(PATH_BASE)
 
     return {
-        "name": "chicago",
+        "name": DATASET_NAME,
         "fullName": "Chicago Face Database",
         "link": "https://www.chicagofaces.org/",
         "termsOfUse": (

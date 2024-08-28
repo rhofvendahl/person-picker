@@ -2,6 +2,8 @@ import os
 
 from constants import PATH_BASE
 
+DATASET_NAME = "london"
+
 
 # Ensure images are ordered by angle
 # (modifies inplace + returns, but whatever)
@@ -36,6 +38,7 @@ def get_london_people(path_base: str):
                 people.append(
                     {
                         "id": id,
+                        "datasetName": DATASET_NAME,
                         "imagePaths": place_image_path(
                             [""] * 5,
                             path_relative,

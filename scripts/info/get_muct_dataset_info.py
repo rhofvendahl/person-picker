@@ -2,6 +2,8 @@ import os
 
 from constants import PATH_BASE
 
+DATASET_NAME = "muct"
+
 # Lighting values
 # (I actually think each set might have different lightings, but close enough)
 # (start-end) soft lights both side, bright on one side, bright, dark
@@ -64,6 +66,7 @@ def get_muct_people(path_base: str):
                     people.append(
                         {
                             "id": id,
+                            "datasetName": DATASET_NAME,
                             "imagePaths": place_image_path(
                                 ["", "", ""], path_relative, folder_name
                             ),

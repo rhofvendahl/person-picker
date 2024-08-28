@@ -2,6 +2,8 @@ import os
 
 from constants import PATH_BASE
 
+DATASET_NAME = "tpdne"
+
 
 # Ensure images are ordered by angle
 # (modifies inplace + returns, but whatever)
@@ -30,6 +32,7 @@ def get_tpdne_people(path_base: str):
             people.append(
                 {
                     "id": id,
+                    "datasetName": DATASET_NAME,
                     "imagePaths": [path_relative],
                 }
             )

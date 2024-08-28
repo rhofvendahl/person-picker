@@ -165,7 +165,10 @@ const App = () => {
               />
             }
           ></Route>
-          <Route path="/stars" element={<StarsPage stars={stars} />}></Route>
+          <Route
+            path="/stars"
+            element={<StarsPage datasets={datasets} stars={stars} />}
+          ></Route>
           <Route path="/" element={<Navigate to="/people" />} />
         </Routes>
       </div>
