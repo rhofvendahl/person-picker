@@ -25,7 +25,7 @@ def get_tpdne_people(path_base: str):
 
             path_relative = os.path.join("tpdne", folder_name.split("/")[-1], filename)
 
-            id = filename[:1]
+            id = filename.split(".")[0]
 
             people.append(
                 {

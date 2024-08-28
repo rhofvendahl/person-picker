@@ -17,6 +17,7 @@ import StarsPage from "./components/stars/StarsPage";
 import PeoplePage from "./components/people/PeoplePage";
 import PageButton from "./components/layout/PageButton";
 import {
+  Dataset,
   DatasetName,
   getDatasetByName,
   getDatasets,
@@ -31,7 +32,30 @@ import {
 } from "./services/personService";
 import PersonPage from "./components/person/PersonPage";
 
-export type Page = "people" | "person" | "stars";
+const parsePersonParams = (
+  datasets: Dataset[],
+  datasetNameValue: string | undefined,
+  personIdValue: string | undefined
+): { paramDatasetName: DatasetName | null; paramPerson: Person | null } => {
+  const nullReturn = { paramDatasetName: null, paramPerson: null };
+
+  if (datasetNameValue === undefined || personIdValue === undefined) {
+    return nullReturn;
+  }
+  const paramDatasetName = parseDatasetName(datasetNameValue);
+  if (paramDatasetName === null) {
+    return nullReturn;
+  }
+  const paramPerson = getPerson({
+    datasets,
+    datasetName: paramDatasetName,
+    personId: personIdValue,
+  });
+  if (paramPerson === null) {
+    return nullReturn;
+  }
+  return { paramDatasetName, paramPerson };
+};
 
 const App = () => {
   const datasets = getDatasets();
@@ -41,44 +65,30 @@ const App = () => {
 
   // useParams can only be called in component within Route, hence useMatch here
   const match = useMatch("/people/:datasetName/:personId");
-  const datasetNameValue =
-    match !== null && match.params.datasetName !== undefined
-      ? match.params.datasetName
-      : null;
-  const personIdValue =
-    match !== null && match.params.personId !== undefined
-      ? match.params.personId
-      : null;
-
-  const paramDatasetName =
-    datasetNameValue !== null ? parseDatasetName(datasetNameValue) : null;
-  const paramPerson =
-    paramDatasetName !== null && personIdValue !== null
-      ? getPerson({
-          datasets,
-          datasetName: paramDatasetName,
-          personId: personIdValue,
-        })
-      : null;
+  const { paramDatasetName, paramPerson } = parsePersonParams(
+    datasets,
+    match?.params.datasetName,
+    match?.params.personId
+  );
 
   // If datasetName or personId are in URL, that takes precedence over startingState
   let initDatasetName =
     paramDatasetName !== null ? paramDatasetName : startingState.datasetName;
-  let initPeople = startingState.people;
   let initPerson = paramPerson !== null ? paramPerson : startingState.person;
+  let initPeople = startingState.people;
 
   // Fallback values
   if (initDatasetName === null) {
     initDatasetName = "london";
-  }
-  if (initPeople === null) {
-    initPeople = sampleDataset(getDatasetByName(datasets, initDatasetName), 3);
   }
   if (initPerson === null) {
     initPerson = sampleDataset(
       getDatasetByName(datasets, initDatasetName),
       1
     )[0];
+  }
+  if (initPeople === null) {
+    initPeople = sampleDataset(getDatasetByName(datasets, initDatasetName), 3);
   }
 
   const [datasetName, setDatasetName] = useState<DatasetName>(initDatasetName);
@@ -88,7 +98,7 @@ const App = () => {
   // What will be passed to any subsequent page changes
   const nextStartingState: StartingState = {
     datasetName,
-    person,
+    person: initPerson,
     people,
   };
 
