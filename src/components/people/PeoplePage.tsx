@@ -13,16 +13,16 @@ import {
 const PeoplePage = ({
   datasets,
   people,
-  setPeople,
+  handleSetPeople,
   datasetName,
-  setDatasetName,
+  handleSetDatasetName,
   stars,
 }: {
   datasets: Dataset[];
   people: Person[];
-  setPeople: (people: Person[]) => void;
+  handleSetPeople: (people: Person[]) => void;
   datasetName: DatasetName;
-  setDatasetName: (datasetName: DatasetName) => void;
+  handleSetDatasetName: (datasetName: DatasetName) => void;
   stars: string[];
 }) => {
   console.log("PeoplePage stars", stars);
@@ -30,7 +30,7 @@ const PeoplePage = ({
   useEffect(() => {
     const handleSpace = (event: KeyboardEvent) => {
       if (event.code === "Space") {
-        setPeople(
+        handleSetPeople(
           sampleDataset(getDatasetByName(datasets, datasetName), people.length)
         );
       }
@@ -39,7 +39,7 @@ const PeoplePage = ({
 
     // Remove handler on unmount
     return () => window.removeEventListener("keydown", handleSpace);
-  }, [datasets, datasetName, people.length, setPeople]);
+  }, [datasets, datasetName, people.length, handleSetPeople]);
 
   return (
     <div className="h-full flex flex-col">
@@ -74,7 +74,7 @@ const PeoplePage = ({
             max="5"
             value={people.length}
             onChange={(event) =>
-              setPeople(
+              handleSetPeople(
                 sampleDataset(
                   getDatasetByName(datasets, datasetName),
                   parseInt(event.target.value)
@@ -89,8 +89,8 @@ const PeoplePage = ({
             className="p-1 rounded bg-gray-500"
             value={datasetName}
             onChange={(event) => {
-              setDatasetName(event.target.value as DatasetName);
-              setPeople(
+              handleSetDatasetName(event.target.value as DatasetName);
+              handleSetPeople(
                 sampleDataset(
                   getDatasetByName(datasets, event.target.value as DatasetName),
                   people.length
@@ -107,7 +107,7 @@ const PeoplePage = ({
         <button
           className="rounded px-2 py-1 bg-green-500"
           onClick={() =>
-            setPeople(
+            handleSetPeople(
               sampleDataset(
                 getDatasetByName(datasets, datasetName),
                 people.length

@@ -4,7 +4,7 @@ import {
   Route,
   Routes,
   useLocation,
-  useParams,
+  useMatch,
 } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -39,12 +39,21 @@ const App = () => {
   const location = useLocation();
   const startingState = parseStartingState(datasets, location.state);
 
-  const { datasetName: datasetNameValue, personId: personIdValue } =
-    useParams();
+  // useParams can only be called in component within Route, hence useMatch here
+  const match = useMatch("/people/:datasetName/:personId");
+  const datasetNameValue =
+    match !== null && match.params.datasetName !== undefined
+      ? match.params.datasetName
+      : null;
+  const personIdValue =
+    match !== null && match.params.personId !== undefined
+      ? match.params.personId
+      : null;
+
   const paramDatasetName =
-    datasetNameValue !== undefined ? parseDatasetName(datasetNameValue) : null;
+    datasetNameValue !== null ? parseDatasetName(datasetNameValue) : null;
   const paramPerson =
-    paramDatasetName !== null && personIdValue !== undefined
+    paramDatasetName !== null && personIdValue !== null
       ? getPerson({
           datasets,
           datasetName: paramDatasetName,
@@ -139,9 +148,9 @@ const App = () => {
               <PeoplePage
                 datasets={datasets}
                 people={people}
-                setPeople={setPeople}
+                handleSetPeople={setPeople}
                 datasetName={datasetName}
-                setDatasetName={setDatasetName}
+                handleSetDatasetName={setDatasetName}
                 stars={stars}
               />
             }
