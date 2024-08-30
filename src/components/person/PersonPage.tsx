@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowLeft, faStar } from "@fortawesome/free-solid-svg-icons";
 
@@ -6,19 +6,16 @@ import {
   DatasetName,
   formatImagePath,
   Person,
-  StartingState,
 } from "../../services/personService";
 
 const PersonPage = ({
   datasetName,
   person,
-  nextStartingState,
   stars,
   handleUpdateStar,
 }: {
   datasetName: DatasetName;
   person: Person;
-  nextStartingState: StartingState;
   stars: string[];
   handleUpdateStar: ({
     datasetName,
@@ -30,6 +27,8 @@ const PersonPage = ({
     shouldStar: boolean;
   }) => void;
 }) => {
+  const navigate = useNavigate();
+
   const starred = stars.includes(`${datasetName}/${person.id}`);
 
   return (
@@ -47,12 +46,13 @@ const PersonPage = ({
         </div>
       </div>
       <div className="h-14 bg-gray-800 flex items-center justify-center gap-6">
-        <Link to="/people" state={nextStartingState}>
-          <button className="rounded px-2 py-1 bg-gray-500">
-            <FontAwesomeIcon icon={faArrowLeft} className="mr-1" />
-            Back
-          </button>
-        </Link>
+        <button
+          className="rounded px-2 py-1 bg-gray-500"
+          onClick={() => navigate(-1)}
+        >
+          <FontAwesomeIcon icon={faArrowLeft} className="mr-1" />
+          Back
+        </button>
         <button
           className="rounded px-2 py-1 bg-gray-500"
           onClick={() =>

@@ -146,7 +146,6 @@ const App = () => {
               <PersonPage
                 datasetName={datasetName}
                 person={person}
-                nextStartingState={nextStartingState}
                 stars={stars}
                 handleUpdateStar={handleUpdateStar}
               />
