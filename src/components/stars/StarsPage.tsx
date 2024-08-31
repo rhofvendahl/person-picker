@@ -108,7 +108,9 @@ const StarsPage = ({
         </div>
         <div className="h-14 bg-gray-800 flex items-center justify-center gap-6">
           <button
-            className="rounded px-2 py-1 bg-gray-500"
+            className={`rounded px-2 py-1 ${
+              picking ? "bg-gray-900 text-gray-200" : "bg-gray-500"
+            }`}
             onClick={() => {
               if (picking) {
                 setPicks([]);
@@ -118,7 +120,7 @@ const StarsPage = ({
               }
             }}
           >
-            {picking ? "Stop picking" : "Pick images(s)"}
+            {picking ? "Stop picking" : "Pick images export"}
           </button>
         </div>
       </div>

@@ -67,7 +67,9 @@ const PersonPage = ({
           Back
         </button>
         <button
-          className="rounded px-2 py-1 bg-gray-500"
+          className={`rounded px-2 py-1 ${
+            starred ? "bg-gray-900 text-gray-200" : "bg-gray-500"
+          }`}
           onClick={() =>
             handleUpdateStar({
               datasetName: person.datasetName,

@@ -1,5 +1,7 @@
 import { useEffect } from "react";
 import { Link } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faStar } from "@fortawesome/free-solid-svg-icons";
 
 import {
   Dataset,
@@ -26,8 +28,6 @@ const PeoplePage = ({
   handleSetDatasetName: (datasetName: DatasetName) => void;
   stars: string[];
 }) => {
-  console.log("PeoplePage stars", stars);
-
   useEffect(() => {
     const handleSpace = (event: KeyboardEvent) => {
       if (event.code === "Space") {
@@ -47,7 +47,7 @@ const PeoplePage = ({
       <div className="flex-1 flex flex-col justify-center">
         <div className="flex justify-stretch gap-10 px-10">
           {people.map((person, i) => (
-            <div key={i} className="flex-1">
+            <div key={i} className="flex-1 relative">
               <Link
                 to={`/people/${datasetName}/${person.id}`}
                 state={{
@@ -62,6 +62,14 @@ const PeoplePage = ({
                   openModal={false}
                 />
               </Link>
+              {stars.includes(`${person.datasetName}/${person.id}`) && (
+                <div className="absolute top-full left-0 right-0">
+                  <FontAwesomeIcon
+                    className="w-full mx-auto text-yellow-500 text-lg mt-2"
+                    icon={faStar}
+                  />
+                </div>
+              )}
             </div>
           ))}
         </div>
