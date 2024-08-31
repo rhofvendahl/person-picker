@@ -31,7 +31,7 @@ const ImageModal = ({
     open &&
     createPortal(
       <div
-        className="fixed inset-0 p-10 flex flex-col justify-center"
+        className="fixed inset-0 p-10 flex flex-col justify-center items-center"
         onClick={() => handleClose()}
       >
         <div
