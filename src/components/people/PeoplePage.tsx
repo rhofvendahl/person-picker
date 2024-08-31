@@ -9,6 +9,7 @@ import {
   Person,
   sampleDataset,
 } from "../../services/personService";
+import PersonImage from "../common/PersonImage";
 
 const PeoplePage = ({
   datasets,
@@ -55,9 +56,10 @@ const PeoplePage = ({
                   person: person.id,
                 }}
               >
-                <img
-                  src={getPrimaryImagePath(datasetName, person)}
-                  className="rounded object-cover aspect-square max-h-96 m-auto"
+                <PersonImage
+                  imagePath={getPrimaryImagePath(datasetName, person)}
+                  reverse={false}
+                  openModal={false}
                 />
               </Link>
             </div>

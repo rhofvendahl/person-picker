@@ -138,7 +138,7 @@ const App = () => {
           nextStartingState={nextStartingState}
         />
       </div>
-      <div className="flex-1">
+      <div className="flex-1 overflow-auto">
         <Routes>
           <Route
             path="/people/:datasetName/:personId"

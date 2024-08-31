@@ -7,6 +7,7 @@ import {
   formatImagePath,
   Person,
 } from "../../services/personService";
+import PersonImage from "../common/PersonImage";
 
 const PersonPage = ({
   datasetName,
@@ -33,13 +34,27 @@ const PersonPage = ({
 
   return (
     <div className="h-full flex flex-col">
-      <div className="flex-1 flex flex-col justify-center">
-        <div className="flex justify-stretch px-10 gap-1">
+      <div className="flex-1 overflow-auto flex flex-col justify-center">
+        <div className="overflow-auto flex px-10 gap-1">
+          {datasetName === "muct" &&
+            person.imagePaths
+              .slice(1)
+              .reverse()
+              .map((imagePath, i) => (
+                <div key={i} className="flex-1">
+                  <PersonImage
+                    imagePath={formatImagePath(imagePath)}
+                    reverse={true}
+                    openModal={true}
+                  />
+                </div>
+              ))}
           {person.imagePaths.map((imagePath, i) => (
             <div key={i} className="flex-1">
-              <img
-                src={formatImagePath(imagePath)}
-                className="rounded object-cover aspect-square max-h-96 m-auto"
+              <PersonImage
+                imagePath={formatImagePath(imagePath)}
+                reverse={false}
+                openModal={true}
               />
             </div>
           ))}
@@ -72,3 +87,5 @@ const PersonPage = ({
 };
 
 export default PersonPage;
+// /src/assets/datasets//src/assets/datasets/muct/muct-c-jpg-v1/i228tc-mg.jpg
+// /src/assets/datasets/muct/muct-c-jpg-v1/i228tc-mg.jpg
