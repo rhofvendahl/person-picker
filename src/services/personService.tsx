@@ -211,3 +211,77 @@ export const getPeopleFromStars = (
   }
   return people;
 };
+export const sufficientDatasetNames: DatasetName[] = ["london", "muct"];
+
+export type PickImage = {
+  path: string;
+  reverse: boolean;
+};
+
+const getPickImage = (imagePath: string, reverse: boolean): PickImage => {
+  return { path: formatImagePath(imagePath), reverse };
+};
+
+const getLondonImages = (person: Person): PickImage[] => {
+  return person.imagePaths.map((imagePath) => getPickImage(imagePath, false));
+};
+const getMuctImages = (person: Person): PickImage[] => {
+  const reversed = person.imagePaths
+    .slice(1)
+    .map((imagePath) => getPickImage(imagePath, true))
+    .reverse();
+  return [
+    ...reversed,
+    ...person.imagePaths.map((imagePath) => getPickImage(imagePath, false)),
+  ];
+};
+
+export const getImagesFromPicks = (picks: Person[]): PickImage[] => {
+  if (picks.length === 0) {
+    return [];
+  }
+
+  switch (picks[0].datasetName) {
+    // London has a great set of images - discard second pick
+    case "london": {
+      return getLondonImages(picks[0]);
+    }
+    case "muct": {
+      const muctImages = getMuctImages(picks[0]);
+      // If secondpick is london, that should replace the non-front views
+      if (picks.length > 1 && picks[1].datasetName === "london") {
+        const newSet = [...getLondonImages(picks[1])];
+        newSet[2] = muctImages[2];
+        return newSet;
+      }
+      // If there's just one pick or other picks aren't london, just return
+      // muct images - they're still fairly complete
+      return getMuctImages(picks[0]);
+    }
+    // That leaves chicago and tpdne - both single-image datasets
+    default: {
+      // If there's just one pick or the second is also a single, just return that
+      const singleImage: PickImage = {
+        path: formatImagePath(picks[0].imagePaths[0]),
+        reverse: false,
+      };
+      if (
+        picks.length === 1 ||
+        picks[1].datasetName === "chicago" ||
+        picks[1].datasetName === "tpdne"
+      ) {
+        return [singleImage];
+      }
+      // The second pick should then be london or muct
+      let newSet: PickImage[] = [];
+      if (picks[1].datasetName === "london") {
+        newSet = [...getLondonImages(picks[1])];
+      }
+      if (picks[1].datasetName === "muct") {
+        newSet = [...getMuctImages(picks[1])];
+      }
+      newSet[2] = singleImage;
+      return newSet;
+    }
+  }
+};
