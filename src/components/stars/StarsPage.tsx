@@ -31,7 +31,7 @@ const StarsPage = ({
                   }}
                 >
                   <img
-                    src={getPrimaryImagePath(person.datasetName, person)}
+                    src={getPrimaryImagePath(person)}
                     className="rounded object-cover aspect-square max-h-96 m-auto"
                   />
                 </Link>

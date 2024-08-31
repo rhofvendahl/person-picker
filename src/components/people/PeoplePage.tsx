@@ -57,7 +57,7 @@ const PeoplePage = ({
                 }}
               >
                 <PersonImage
-                  imagePath={getPrimaryImagePath(datasetName, person)}
+                  imagePath={getPrimaryImagePath(person)}
                   reverse={false}
                   openModal={false}
                 />

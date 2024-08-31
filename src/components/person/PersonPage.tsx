@@ -10,12 +10,10 @@ import {
 import PersonImage from "../common/PersonImage";
 
 const PersonPage = ({
-  datasetName,
   person,
   stars,
   handleUpdateStar,
 }: {
-  datasetName: DatasetName;
   person: Person;
   stars: string[];
   handleUpdateStar: ({
@@ -30,13 +28,13 @@ const PersonPage = ({
 }) => {
   const navigate = useNavigate();
 
-  const starred = stars.includes(`${datasetName}/${person.id}`);
+  const starred = stars.includes(`${person.datasetName}/${person.id}`);
 
   return (
     <div className="h-full flex flex-col">
       <div className="flex-1 overflow-auto flex flex-col justify-center">
         <div className="overflow-auto flex px-10 gap-1">
-          {datasetName === "muct" &&
+          {person.datasetName === "muct" &&
             person.imagePaths
               .slice(1)
               .reverse()
@@ -72,7 +70,7 @@ const PersonPage = ({
           className="rounded px-2 py-1 bg-gray-500"
           onClick={() =>
             handleUpdateStar({
-              datasetName,
+              datasetName: person.datasetName,
               id: person.id,
               shouldStar: !starred,
             })

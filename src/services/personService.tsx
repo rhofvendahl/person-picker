@@ -37,15 +37,12 @@ export const formatImagePath = (imagePath: string): string => {
   return `/${BASE_URL}/${imagePath}`;
 };
 
-export const getPrimaryImagePath = (
-  datasetName: DatasetName,
-  person: Person
-): string => {
+export const getPrimaryImagePath = (person: Person): string => {
   if (person.imagePaths.length === 0) {
     return "";
   }
 
-  switch (datasetName) {
+  switch (person.datasetName) {
     case "chicago":
       return formatImagePath(person.imagePaths[0]);
     case "london":

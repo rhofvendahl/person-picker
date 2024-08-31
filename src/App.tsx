@@ -144,7 +144,6 @@ const App = () => {
             path="/people/:datasetName/:personId"
             element={
               <PersonPage
-                datasetName={datasetName}
                 person={person}
                 stars={stars}
                 handleUpdateStar={handleUpdateStar}
