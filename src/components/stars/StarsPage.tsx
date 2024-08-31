@@ -49,8 +49,8 @@ const StarsPage = ({
   return (
     <>
       <div className="h-full flex flex-col">
-        <div className="flex-1 flex flex-col justify-center">
-          <div className="flex justify-stretch gap-5 px-5">
+        <div className="flex-1 overflow-auto flex flex-col justify-center">
+          <div className="flex gap-5 px-5">
             {people.length > 0 ? (
               people.map((person, i) => (
                 <div
