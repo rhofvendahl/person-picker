@@ -110,8 +110,10 @@ const ExportImage = ({ pickImages }: { pickImages: PickImage[] }) => {
   }, [pickImages, setCanvasImageUrl]);
 
   return (
-    <div>
-      {canvasImageUrl && <img src={canvasImageUrl} className="rounded" />}
+    <div className="h-full">
+      {canvasImageUrl && (
+        <img src={canvasImageUrl} className="rounded h-full" />
+      )}
       <canvas ref={canvasRef} style={{ display: "none" }}></canvas>
     </div>
   );

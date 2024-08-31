@@ -1,5 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faArrowUpFromBracket } from "@fortawesome/free-solid-svg-icons";
 
 import {
   Dataset,
@@ -102,14 +104,14 @@ const StarsPage = ({
               </div>
             )}
           </div>
-          <div className="px-5 mt-5">
+          <div className="px-5 mt-5 max-h-80">
             <ExportImage pickImages={getImagesFromPicks(picks)} />
           </div>
         </div>
         <div className="h-14 bg-gray-800 flex items-center justify-center gap-6">
           <button
-            className={`rounded px-2 py-1 ${
-              picking ? "bg-gray-900 text-gray-200" : "bg-gray-500"
+            className={`rounded px-2 py-1 flex items-center ${
+              picking ? "bg-gray-900 text-gray-200" : "bg-blue-500"
             }`}
             onClick={() => {
               if (picking) {
@@ -120,7 +122,8 @@ const StarsPage = ({
               }
             }}
           >
-            {picking ? "Stop picking" : "Pick images export"}
+            <FontAwesomeIcon icon={faArrowUpFromBracket} className="mr-2" />
+            {picking ? "Stop picking" : "Pick images to export"}
           </button>
         </div>
       </div>
