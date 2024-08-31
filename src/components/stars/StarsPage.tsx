@@ -9,6 +9,7 @@ import {
   Person,
 } from "../../services/personService";
 import PersonImage from "../common/PersonImage";
+import ExportImage from "./ExportImage";
 
 // The picks are full or the first is london
 const noAdditionalPicks = (picks: Person[]): boolean => {
@@ -45,13 +46,11 @@ const StarsPage = ({
 
   const people = getPeopleFromStars(datasets, stars);
 
-  const pickImages = getImagesFromPicks(picks);
-
   return (
     <>
       <div className="h-full flex flex-col">
         <div className="flex-1 flex flex-col justify-center">
-          <div className="flex justify-stretch gap-10 px-10">
+          <div className="flex justify-stretch gap-5 px-5">
             {people.length > 0 ? (
               people.map((person, i) => (
                 <div
@@ -67,6 +66,7 @@ const StarsPage = ({
                         }
                       } else {
                         // If the person is already picked, un-pick them
+                        console.log("UN PICKING", person, picks);
                         setPicks(
                           picks.filter((pickPerson) => pickPerson != person)
                         );
@@ -85,7 +85,7 @@ const StarsPage = ({
                   {picks.includes(person) &&
                     picks[0].datasetName === "london" && (
                       <div className="absolute bottom-full text-white w-full text-center">
-                        London is enough
+                        Sufficient
                       </div>
                     )}
 
@@ -102,17 +102,8 @@ const StarsPage = ({
               </div>
             )}
           </div>
-          <div className="flex justify-stretch gap-10 px-10">
-            {pickImages.length > 0 &&
-              pickImages.map((pickImage, i) => (
-                <div key={i} className="flex-1">
-                  <PersonImage
-                    imagePath={pickImage.path}
-                    reverse={pickImage.reverse}
-                    openModal={false}
-                  />
-                </div>
-              ))}
+          <div className="px-5 mt-5">
+            <ExportImage pickImages={getImagesFromPicks(picks)} />
           </div>
         </div>
         <div className="h-14 bg-gray-800 flex items-center justify-center gap-6">
