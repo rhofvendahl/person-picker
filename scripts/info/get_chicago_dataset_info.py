@@ -43,21 +43,19 @@ def get_chicago_people(path_base: str):
         for filename in os.listdir(os.path.join(path_base, cfd_relative, id)):
             # Stop at "neutral" image
             if "N.jpg" in filename:
-                break
-
-        path_relative = os.path.join(cfd_relative, id, filename)
-
-        people.append(
-            {
-                "id": id,
-                "datasetName": DATASET_NAME,
-                "imagePaths": [path_relative],
-            }
-        )
+                path_relative = os.path.join(cfd_relative, id, filename)
+                people.append(
+                    {
+                        "id": id,
+                        "datasetName": DATASET_NAME,
+                        "imagePaths": [path_relative],
+                    }
+                )
 
     cfd_india_relative = "chicago/CFD-INDIA"
     for filename_or_folder in os.listdir(os.path.join(path_base, cfd_india_relative)):
         # Some of these are actually folders with two files within them
+        path_relative = None
         if os.path.isdir(
             os.path.join(path_base, cfd_india_relative, filename_or_folder)
         ):
@@ -75,12 +73,37 @@ def get_chicago_people(path_base: str):
                 filename = filename_or_folder
                 path_relative = os.path.join(cfd_india_relative, filename)
 
-        # Cut off "CFD-" and "-N.jpg"
-        id = filename[4:-6]
+        if path_relative is not None:
 
-        people.append({"id": id, "imagePaths": [path_relative]})
+            # Cut off "CFD-" and "-N.jpg"
+            # (Filename should be right after previous loop or conditional)
+            id = filename[4:-6]
+            people.append(
+                {
+                    "id": id,
+                    "datasetName": DATASET_NAME,
+                    "imagePaths": [path_relative],
+                }
+            )
 
-    add_demographics_chicago(people)
+    cfd_mr_relative = "chicago/CFD-MR"
+    for filename in os.listdir(os.path.join(path_base, cfd_mr_relative)):
+        if ".jpg" in filename:
+            path_relative = os.path.join(cfd_mr_relative, filename)
+
+            # Cut off "CFD-" and "-N.jpg"
+            id = filename[4:-6]
+
+            people.append(
+                {
+                    "id": id,
+                    "datasetName": DATASET_NAME,
+                    "imagePaths": [path_relative],
+                }
+            )
+
+    # TODO: Fix
+    # add_demographics_chicago(people)
 
     return people
 

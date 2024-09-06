@@ -46,7 +46,7 @@ def get_tpdne_info():
     return {
         "name": "tpdne",
         "fullName": "This Person Does Not Exist",
-        "link": "thispersondoesnotexist.com",
+        "link": "https://thispersondoesnotexist.com",
         "termsOfUse": "I remember reading from the creator that anyone can use them for anything, incl commercial. Dunno where.",
         "collectionMethod": "TPDNE generates the images with ML, using images sourced from internet.",
         "consentStatement": "Unsure where the original images came from. Pretty sure creative commons or equivalent, i.e. aboveboard.",

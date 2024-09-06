@@ -13,6668 +13,5789 @@
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-026/CFD-WM-026-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-214",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-214/CFD-WM-214-026-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-247",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-247/CFD-LF-247-051-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-247",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-247/CFD-BM-247-240-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-019",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-019/CFD-WM-019-003-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-240",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-240/CFD-LF-240-199-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-250",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-250/CFD-AM-250-149-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-213",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-213/CFD-WM-213-076-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-021",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-021/CFD-WM-021-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-240",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-240/CFD-BM-240-207-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-225",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-225/CFD-WM-225-127-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-249",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-249/CFD-BM-249-235-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-017",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-017/CFD-WM-017-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-249",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-249/CFD-LF-249-132-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-028",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-028/CFD-WM-028-003-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-044",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-044/CFD-BM-044-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-010",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-010/CFD-WM-010-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-222",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-222/CFD-WM-222-057-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-043",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-043/CFD-BM-043-071-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-225",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-225/CFD-BM-225-154-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-249",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-249/CFD-WM-249-239-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-017",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-017/CFD-BM-017-021-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-235",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-235/CFD-AM-235-241-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-028",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-028/CFD-BM-028-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-225",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-225/CFD-LF-225-164-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-010",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-010/CFD-BM-010-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-222",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-222/CFD-BM-222-173-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-222",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-222/CFD-LF-222-147-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-232",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-232/CFD-AM-232-251-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-026",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-026/CFD-BM-026-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-214",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-214/CFD-BM-214-075-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-214",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-214/CFD-LF-214-090-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-204",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-204/CFD-AM-204-122-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-247",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-247/CFD-WM-247-084-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-019",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-019/CFD-BM-019-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-213",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-213/CFD-BM-213-134-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-021",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-021/CFD-BM-021-021-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-240",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-240/CFD-WM-240-125-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-203",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-203/CFD-AM-203-086-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-213",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-213/CFD-LF-213-079-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-223",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-223/CFD-WM-223-056-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-011",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-011/CFD-WM-011-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-248",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-248/CFD-BM-248-128-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-016",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-016/CFD-WM-016-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-224",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-224/CFD-WM-224-197-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-045",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-045/CFD-BM-045-004-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-029",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-029/CFD-WM-029-023-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-248",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-248/CFD-LF-248-160-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-251",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-251/CFD-AM-251-124-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-020",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-020/CFD-WM-020-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-212",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-212/CFD-WM-212-097-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-241",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-241/CFD-LF-241-188-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-241",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-241/CFD-BM-241-235-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-246",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-246/CFD-LF-246-129-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-215",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-215/CFD-WM-215-041-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-246",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-246/CFD-BM-246-192-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-018",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-018/CFD-WM-018-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-020",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-020/CFD-BM-020-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-212",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-212/CFD-BM-212-117-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-212",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-212/CFD-LF-212-066-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-241",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-241/CFD-WM-241-072-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-202",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-202/CFD-AM-202-079-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-215",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-215/CFD-BM-215-155-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-027",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-027/CFD-BM-027-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-205",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-205/CFD-AM-205-153-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-018",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-018/CFD-BM-018-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-215",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-215/CFD-LF-215-157-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-223",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-223/CFD-BM-223-171-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-011",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-011/CFD-BM-011-016-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-233",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-233/CFD-AM-233-236-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-223",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-223/CFD-LF-223-064-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-248",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-248/CFD-WM-248-036-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-016",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-016/CFD-BM-016-036-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-224",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-224/CFD-BM-224-073-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-224",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-224/CFD-LF-224-176-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-234",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-234/CFD-AM-234-355-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-029",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-029/CFD-BM-029-024-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-031",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-031/CFD-BF-031-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-203",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-203/CFD-BF-203-184-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-203",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-203/CFD-LM-203-026-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "WF-250",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-250/CFD-WF-250-167-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-213",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-213/CFD-AF-213-126-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-204",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-204/CFD-BF-204-189-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-036",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-036/CFD-BF-036-027-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-214",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-214/CFD-AF-214-139-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-009",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-009/CFD-BF-009-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-204",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-204/CFD-LM-204-001-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-232",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-232/CFD-BF-232-187-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-222",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-222/CFD-AF-222-134-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-232",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-232/CFD-LM-232-204-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-007",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-007/CFD-BF-007-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-235",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-235/CFD-BF-235-168-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-235",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-235/CFD-LM-235-231-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-225",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-225/CFD-AF-225-141-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-038",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-038/CFD-BF-038-037-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-232",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-232/CFD-WF-232-161-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-007",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-007/CFD-WF-007-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-235",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-235/CFD-WF-235-121-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-249",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-249/CFD-AF-249-092-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-038",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-038/CFD-WF-038-021-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-240",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-240/CFD-AF-240-206-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-031",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-031/CFD-WF-031-027-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-203",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-203/CFD-WF-203-229-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-250",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-250/CFD-LM-250-077-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-250",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-250/CFD-BF-250-121-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-204",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-204/CFD-WF-204-038-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-036",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-036/CFD-WF-036-023-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-247",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-247/CFD-AF-247-278-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-009",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-009/CFD-WF-009-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-234",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-234/CFD-BF-234-167-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-006",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-006/CFD-BF-006-017-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-224",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-224/CFD-AF-224-026-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-039",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-039/CFD-BF-039-031-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-234",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-234/CFD-LM-234-176-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-001",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-001/CFD-BF-001-025-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-233",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-233/CFD-BF-233-116-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-233",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-233/CFD-LM-233-171-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-223",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-223/CFD-AF-223-183-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-037",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-037/CFD-BF-037-022-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-205",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-205/CFD-BF-205-141-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-215",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-215/CFD-AF-215-70-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-008",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-008/CFD-BF-008-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-202",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-202/CFD-BF-202-109-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-030",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-030/CFD-BF-030-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-251",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-251/CFD-WF-251-014-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-212",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-212/CFD-AF-212-097-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-202",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-202/CFD-LM-202-072-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "WF-037",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-037/CFD-WF-037-029-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-205",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-205/CFD-WF-205-006-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-246",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-246/CFD-AF-246-242-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-008",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-008/CFD-WF-008-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-251",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-251/CFD-LM-251-073-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-241",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-241/CFD-AF-241-141-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-202",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-202/CFD-WF-202-056-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-030",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-030/CFD-WF-030-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-251",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-251/CFD-BF-251-211-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-234",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-234/CFD-WF-234-086-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-006",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-006/CFD-WF-006-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-248",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-248/CFD-AF-248-148-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-039",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-039/CFD-WF-039-025-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-001",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-001/CFD-WF-001-003-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-233",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-233/CFD-WF-233-112-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-242",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-242/CFD-BF-242-154-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-211",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-211/CFD-WF-211-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-023",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-023/CFD-WF-023-003-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-252",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-252/CFD-AF-252-135-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-242",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-242/CFD-LM-242-002-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "WF-229",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-229/CFD-WF-229-004-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-245",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-245/CFD-BF-245-178-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-255",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-255/CFD-AF-255-209-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-024",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-024/CFD-WF-024-003-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-048",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-048/CFD-BF-048-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-216",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-216/CFD-WF-216-079-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-041",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-041/CFD-BF-041-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-012",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-012/CFD-WF-012-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-220",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-220/CFD-WF-220-101-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-218",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-218/CFD-WF-218-087-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-227",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-227/CFD-WF-227-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-015",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-015/CFD-WF-015-006-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-230",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-230/CFD-AF-230-193-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-220",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-220/CFD-LM-220-329-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-012",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-012/CFD-BF-012-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-220",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-220/CFD-BF-220-161-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-227",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-227/CFD-LM-227-103-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-218",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-218/CFD-BF-218-207-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-237",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-237/CFD-AF-237-223-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-218",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-218/CFD-LM-218-183-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-208",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-208/CFD-AF-208-003-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-227",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-227/CFD-BF-227-137-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-015",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-015/CFD-BF-015-004-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-211",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-211/CFD-LM-211-128-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-201",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-201/CFD-AF-201-060-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-242",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-242/CFD-WF-242-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-211",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-211/CFD-BF-211-168-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-023",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-023/CFD-BF-023-010-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-229",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-229/CFD-BF-229-179-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-245",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-245/CFD-WF-245-084-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-206",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-206/CFD-AF-206-079-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-216",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-216/CFD-LM-216-082-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-239",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-239/CFD-AF-239-171-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-024",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-024/CFD-BF-024-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-216",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-216/CFD-BF-216-132-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-229",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-229/CFD-LM-229-187-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-047",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-047/CFD-BF-047-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-219",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-219/CFD-WF-219-038-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-014",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-014/CFD-WF-014-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-226",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-226/CFD-WF-226-095-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-040",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-040/CFD-BF-040-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-221",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-221/CFD-WF-221-005-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-013",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-013/CFD-WF-013-003-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-244",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-244/CFD-BF-244-231-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-228",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-228/CFD-WF-228-196-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-254",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-254/CFD-AF-254-167-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-049",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-049/CFD-BF-049-032-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-217",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-217/CFD-WF-217-085-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-025",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-025/CFD-WF-025-019-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-244",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-244/CFD-LM-244-068-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-243",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-243/CFD-BF-243-164-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-243",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-243/CFD-LM-243-075-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "WF-022",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-022/CFD-WF-022-017-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-210",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-210/CFD-WF-210-086-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-253",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-253/CFD-AF-253-130-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-217",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-217/CFD-LM-217-162-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "WF-244",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-244/CFD-WF-244-163-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-228",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-228/CFD-BF-228-212-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-207",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-207/CFD-AF-207-023-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-228",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-228/CFD-LM-228-188-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-238",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-238/CFD-AF-238-185-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-217",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-217/CFD-BF-217-189-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-025",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-025/CFD-BF-025-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-200",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-200/CFD-AF-200-228-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-243",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-243/CFD-WF-243-148-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-210",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-210/CFD-LM-210-156-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-210",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-210/CFD-BF-210-130-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-219",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-219/CFD-BF-219-137-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-236",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-236/CFD-AF-236-145-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-226",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-226/CFD-LM-226-175-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-209",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-209/CFD-AF-209-006-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-014",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-014/CFD-BF-014-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-226",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-226/CFD-BF-226-119-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-219",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-219/CFD-LM-219-295-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "LM-221",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-221/CFD-LM-221-216-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-231",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-231/CFD-AF-231-357-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-221",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-221/CFD-BF-221-223-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-013",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-013/CFD-BF-013-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LF-206",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-206/CFD-LF-206-078-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-255",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-255/CFD-WM-255-219-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-239",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-239/CFD-BM-239-136-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-216",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-216/CFD-AM-216-114-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-239",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-239/CFD-LF-239-148-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-229",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-229/CFD-AM-229-224-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-206",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-206/CFD-BM-206-114-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-034",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-034/CFD-BM-034-031-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-211",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-211/CFD-AM-211-052-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-252",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-252/CFD-WM-252-224-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-201",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-201/CFD-LF-201-035-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-033",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-033/CFD-BM-033-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-201",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-201/CFD-BM-201-077-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-208",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-208/CFD-BM-208-065-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-227",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-227/CFD-AM-227-184-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-237",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-237/CFD-LF-237-190-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-218",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-218/CFD-AM-218-085-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-005",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-005/CFD-BM-005-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-237",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-237/CFD-BM-237-188-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-208",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-208/CFD-LF-208-127-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "LF-230",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-230/CFD-LF-230-203-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-220",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-220/CFD-AM-220-134-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-230",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-230/CFD-BM-230-232-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-002",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-002/CFD-BM-002-013-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-208",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-208/CFD-WM-208-068-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-237",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-237/CFD-WM-237-052-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-230",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-230/CFD-WM-230-131-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-002",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-002/CFD-WM-002-009-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-239",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-239/CFD-WM-239-128-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-245",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-245/CFD-AM-245-111-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-206",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-206/CFD-WM-206-045-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-034",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-034/CFD-WM-034-030-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-255",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-255/CFD-LF-255-088-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-252",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-252/CFD-BM-252-161-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-252",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-252/CFD-LF-252-172-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-033",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-033/CFD-WM-033-025-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-201",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-201/CFD-WM-201-063-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-242",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-242/CFD-AM-242-176-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-221",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-221/CFD-AM-221-184-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-231",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-231/CFD-LF-231-260-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-003",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-003/CFD-BM-003-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-231",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-231/CFD-BM-231-155-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-236",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-236/CFD-LF-236-221-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-209",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-209/CFD-BM-209-088-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-226",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-226/CFD-AM-226-234-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-209",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-209/CFD-LF-209-072-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-219",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-219/CFD-AM-219-101-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-236",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-236/CFD-BM-236-248-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-004",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-004/CFD-BM-004-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-200",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-200/CFD-LF-200-058-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-210",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-210/CFD-AM-210-035-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-253",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-253/CFD-WM-253-119-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-200",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-200/CFD-BM-200-046-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-032",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-032/CFD-BM-032-024-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-238",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-238/CFD-BM-238-242-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-254",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-254/CFD-WM-254-152-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-217",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-217/CFD-AM-217-085-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-207",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-207/CFD-LF-207-198-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-228",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-228/CFD-AM-228-214-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-207",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-207/CFD-BM-207-024-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-238",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-238/CFD-LF-238-154-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-253",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-253/CFD-BM-253-004-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-200",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-200/CFD-WM-200-034-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-032",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-032/CFD-WM-032-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-243",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-243/CFD-AM-243-212-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-253",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-253/CFD-LF-253-003-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-238",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-238/CFD-WM-238-020-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-254",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-254/CFD-LF-254-125-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-244",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-244/CFD-AM-244-222-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-035",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-035/CFD-WM-035-032-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-207",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-207/CFD-WM-207-048-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-003",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-003/CFD-WM-003-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-231",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-231/CFD-WM-231-112-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-209",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-209/CFD-WM-209-038-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-236",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-236/CFD-WM-236-072-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-004",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-004/CFD-WM-004-010-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-221",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-221/CFD-BM-221-198-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-013",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-013/CFD-BM-013-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-221",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-221/CFD-LF-221-002-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-040",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-040/CFD-WM-040-022-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-231",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-231/CFD-AM-231-136-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-226",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-226/CFD-BM-226-276-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-209",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-209/CFD-AM-209-048-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-219",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-219/CFD-LF-219-223-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-236",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-236/CFD-AM-236-090-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-219",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-219/CFD-BM-219-141-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-226",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-226/CFD-LF-226-174-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-022",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-022/CFD-BM-022-022-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-210",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-210/CFD-BM-210-148-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-243",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-243/CFD-WM-243-107-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-210",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-210/CFD-LF-210-220-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "LF-228",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-228/CFD-LF-228-125-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-217",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-217/CFD-BM-217-082-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-025",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-025/CFD-BM-025-035-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-238",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-238/CFD-AM-238-269-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-217",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-217/CFD-LF-217-082-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-207",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-207/CFD-AM-207-108-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-244",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-244/CFD-WM-244-003-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-228",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-228/CFD-BM-228-145-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-243",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-243/CFD-LF-243-175-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-253",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-253/CFD-AM-253-161-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-022",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-022/CFD-WM-022-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-210",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-210/CFD-WM-210-057-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-243",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-243/CFD-BM-243-218-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-217",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-217/CFD-WM-217-070-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-025",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-025/CFD-WM-025-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-244",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-244/CFD-LF-244-096-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-244",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-244/CFD-BM-244-197-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-228",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-228/CFD-WM-228-065-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-221",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-221/CFD-WM-221-091-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-013",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-013/CFD-WM-013-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-040",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-040/CFD-BM-040-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-014",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-014/CFD-WM-014-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-219",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-219/CFD-WM-219-008-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-024",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-024/CFD-BM-024-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-216",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-216/CFD-BM-216-088-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-239",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-239/CFD-AM-239-147-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-229",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-229/CFD-LF-229-164-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-206",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-206/CFD-AM-206-086-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-229",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-229/CFD-BM-229-209-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-245",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-245/CFD-WM-245-123-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-216",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-216/CFD-LF-216-121-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-211",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-211/CFD-BM-211-174-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-023",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-023/CFD-BM-023-029-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-211",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-211/CFD-LF-211-003-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-242",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-242/CFD-WM-242-011-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-201",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-201/CFD-AM-201-076-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-218",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-218/CFD-LF-218-072-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-227",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-227/CFD-BM-227-191-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-015",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-015/CFD-BM-015-015-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-208",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-208/CFD-AM-208-143-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-227",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-227/CFD-LF-227-054-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-237",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-237/CFD-AM-237-154-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-218",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-218/CFD-BM-218-132-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-012",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-012/CFD-BM-012-018-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-041",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-041/CFD-WM-041-021-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-230",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-230/CFD-AM-230-150-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-220",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-220/CFD-LF-220-120-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-227",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-227/CFD-WM-227-099-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-015",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-015/CFD-WM-015-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-046",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-046/CFD-BM-046-006-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-218",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-218/CFD-WM-218-074-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-012",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-012/CFD-WM-012-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-220",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-220/CFD-WM-220-068-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-041",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-041/CFD-BM-041-035-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-245",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-245/CFD-LF-245-166-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-024",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-024/CFD-WM-024-015-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-216",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-216/CFD-WM-216-061-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-229",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-229/CFD-WM-229-129-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-245",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-245/CFD-BM-245-164-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-252",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-252/CFD-AM-252-114-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-211",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-211/CFD-WM-211-054-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-023",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-023/CFD-WM-023-001-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-242",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-242/CFD-LF-242-121-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-242",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-242/CFD-BM-242-233-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WF-236",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-236/CFD-WF-236-107-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-209",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-209/CFD-WF-209-052-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-003",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-003/CFD-WF-003-003-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-231",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-231/CFD-WF-231-099-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-050",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-050/CFD-BF-050-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-035",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-035/CFD-WF-035-024-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-207",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-207/CFD-WF-207-014-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-244",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-244/CFD-AF-244-168-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-238",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-238/CFD-WF-238-023-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-254",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-254/CFD-BF-254-201-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-243",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-243/CFD-AF-243-170-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-200",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-200/CFD-WF-200-099-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-253",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-253/CFD-LM-253-075-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-253",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-253/CFD-BF-253-202-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-035",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-035/CFD-BF-035-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-207",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-207/CFD-BF-207-004-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-228",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-228/CFD-AF-228-173-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-238",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-238/CFD-LM-238-129-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-217",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-217/CFD-AF-217-155-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-238",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-238/CFD-BF-238-190-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-207",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-207/CFD-LM-207-004-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-200",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-200/CFD-BF-200-080-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-032",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-032/CFD-BF-032-038-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-200",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-200/CFD-LM-200-045-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-210",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-210/CFD-AF-210-050-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-209",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-209/CFD-LM-209-111-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-236",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-236/CFD-BF-236-177-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-004",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-004/CFD-BF-004-014-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-219",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-219/CFD-AF-219-106-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-236",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-236/CFD-LM-236-163-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-226",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-226/CFD-AF-226-251-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-209",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-209/CFD-BF-209-172-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-003",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-003/CFD-BF-003-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-231",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-231/CFD-BF-231-202-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-221",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-221/CFD-AF-221-147-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-231",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-231/CFD-LM-231-214-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "LM-252",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-252/CFD-LM-252-076-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-242",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-242/CFD-AF-242-158-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-033",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-033/CFD-WF-033-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-201",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-201/CFD-WF-201-156-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-252",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-252/CFD-BF-252-191-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-206",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-206/CFD-WF-206-147-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-034",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-034/CFD-WF-034-006-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-245",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-245/CFD-AF-245-143-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-255",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-255/CFD-BF-255-140-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-239",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-239/CFD-WF-239-155-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-230",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-230/CFD-WF-230-158-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-002",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-002/CFD-WF-002-004-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-051",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-051/CFD-BF-051-035-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-005",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-005/CFD-WF-005-010-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-237",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-237/CFD-WF-237-067-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-208",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-208/CFD-WF-208-068-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-230",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-230/CFD-BF-230-189-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-002",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-002/CFD-BF-002-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-230",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-230/CFD-LM-230-202-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-220",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-220/CFD-AF-220-107-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-005",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-005/CFD-BF-005-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-237",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-237/CFD-BF-237-172-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-218",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-218/CFD-AF-218-157-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-208",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-208/CFD-LM-208-110-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-227",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-227/CFD-AF-227-207-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-208",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-208/CFD-BF-208-266-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-237",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-237/CFD-LM-237-264-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-033",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-033/CFD-BF-033-028-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-201",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-201/CFD-BF-201-080-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-252",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-252/CFD-WF-252-159-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-211",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-211/CFD-AF-211-066-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-201",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-201/CFD-LM-201-057-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "LM-239",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-239/CFD-LM-239-075-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-206",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-206/CFD-BF-206-143-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-034",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-034/CFD-BF-034-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-229",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-229/CFD-AF-229-160-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-206",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-206/CFD-LM-206-204-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-216",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-216/CFD-AF-216-106-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-239",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-239/CFD-BF-239-180-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-224",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-224/CFD-LM-224-162-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-029",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-029/CFD-BF-029-031-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-234",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-234/CFD-AF-234-208-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-248",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-248/CFD-WF-248-129-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-016",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-016/CFD-BF-016-017-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-224",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-224/CFD-BF-224-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-233",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-233/CFD-AF-233-190-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-223",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-223/CFD-LM-223-175-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-223",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-223/CFD-BF-223-250-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-011",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-011/CFD-BF-011-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-246",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-246/CFD-WF-246-087-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-018",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-018/CFD-BF-018-039-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-205",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-205/CFD-AF-205-155-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-215",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-215/CFD-LM-215-247-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-215",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-215/CFD-BF-215-177-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-027",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-027/CFD-BF-027-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-212",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-212/CFD-LM-212-143-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-202",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-202/CFD-AF-202-122-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-241",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-241/CFD-WF-241-210-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-020",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-020/CFD-BF-020-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-212",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-212/CFD-BF-212-315-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-246",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-246/CFD-BF-246-170-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-018",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-018/CFD-WF-018-017-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-246",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-246/CFD-LM-246-087-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-256",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-256/CFD-AF-256-160-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-215",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-215/CFD-WF-215-145-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-027",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-027/CFD-WF-027-003-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-241",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-241/CFD-BF-241-222-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-020",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-020/CFD-WF-020-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-212",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-212/CFD-WF-212-050-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-251",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-251/CFD-AF-251-093-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-241",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-241/CFD-LM-241-125-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-045",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-045/CFD-BF-045-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-029",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-029/CFD-WF-029-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-248",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-248/CFD-LM-248-089-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-248",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-248/CFD-BF-248-149-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-016",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-016/CFD-WF-016-015-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-224",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-224/CFD-WF-224-099-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-042",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-042/CFD-BF-042-026-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-223",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-223/CFD-WF-223-133-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-011",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-011/CFD-WF-011-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-203",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-203/CFD-AF-203-077-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-240",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-240/CFD-WF-240-083-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-213",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-213/CFD-LM-213-061-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-213",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-213/CFD-BF-213-188-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-021",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-021/CFD-BF-021-013-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-214",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-214/CFD-LM-214-165-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "WF-247",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-247/CFD-WF-247-065-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-019",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-019/CFD-BF-019-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-204",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-204/CFD-AF-204-067-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-214",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-214/CFD-BF-214-308-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-222",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-222/CFD-LM-222-239-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "AF-232",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-232/CFD-AF-232-078-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-010",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-010/CFD-BF-010-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-222",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-222/CFD-BF-222-240-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-028",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-028/CFD-BF-028-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-235",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-235/CFD-AF-235-170-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-225",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-225/CFD-LM-225-130-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "BF-225",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-225/CFD-BF-225-192-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-249",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-249/CFD-WF-249-126-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-017",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-017/CFD-BF-017-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-043",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-043/CFD-BF-043-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-010",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-010/CFD-WF-010-004-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-222",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-222/CFD-WF-222-092-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-249",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-249/CFD-LM-249-001-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "WF-028",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-028/CFD-WF-028-023-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-044",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-044/CFD-BF-044-034-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-225",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-225/CFD-WF-225-101-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-249",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-249/CFD-BF-249-091-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-017",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-017/CFD-WF-017-003-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-240",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-240/CFD-BF-240-179-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-240",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-240/CFD-LM-240-013-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "WF-213",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-213/CFD-WF-213-031-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-021",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-021/CFD-WF-021-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "AF-250",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AF-250/CFD-AF-250-200-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "female"
+        ]
       },
       {
         "id": "BF-247",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BF-247/CFD-BF-247-179-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-019",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-019/CFD-WF-019-005-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-026",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-026/CFD-WF-026-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "WF-214",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WF-214/CFD-WF-214-122-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "female"
+        ]
       },
       {
         "id": "LM-247",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LM-247/CFD-LM-247-095-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-001",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-001/CFD-WM-001-014-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-233",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-233/CFD-WM-233-106-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-039",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-039/CFD-WM-039-018-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-248",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-248/CFD-AM-248-104-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-234",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-234/CFD-WM-234-118-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-006",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-006/CFD-WM-006-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-251",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-251/CFD-BM-251-013-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-251",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-251/CFD-LF-251-057-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-202",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-202/CFD-WM-202-107-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-241",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-241/CFD-AM-241-287-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-246",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-246/CFD-AM-246-184-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-037",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-037/CFD-WM-037-025-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-205",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-205/CFD-WM-205-007-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-212",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-212/CFD-AM-212-050-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-251",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-251/CFD-WM-251-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-202",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-202/CFD-LF-202-065-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-202",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-202/CFD-BM-202-063-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-030",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-030/CFD-BM-030-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-205",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-205/CFD-LF-205-100-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-256",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-256/CFD-WM-256-138-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-215",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-215/CFD-AM-215-120-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-037",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-037/CFD-BM-037-033-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-205",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-205/CFD-BM-205-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-233",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-233/CFD-LF-233-277-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-223",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-223/CFD-AM-223-138-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-001",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-001/CFD-BM-001-014-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-233",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-233/CFD-BM-233-285-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-039",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-039/CFD-BM-039-029-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-224",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-224/CFD-AM-224-126-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-234",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-234/CFD-LF-234-139-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-234",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-234/CFD-BM-234-172-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-258",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-258/CFD-WM-258-125-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-009",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-009/CFD-WM-009-002-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-247",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-247/CFD-AM-247-165-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-204",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-204/CFD-WM-204-031-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-036",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-036/CFD-WM-036-031-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-250",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-250/CFD-BM-250-170-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-031",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-031/CFD-WM-031-003-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-203",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-203/CFD-WM-203-023-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-240",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-240/CFD-AM-240-191-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-250",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-250/CFD-LF-250-169-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "WM-038",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-038/CFD-WM-038-003-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-249",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-249/CFD-AM-249-163-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-235",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-235/CFD-WM-235-147-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-232",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-232/CFD-WM-232-070-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-235",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-235/CFD-LF-235-219-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-038",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-038/CFD-BM-038-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-225",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-225/CFD-AM-225-102-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-235",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-235/CFD-BM-235-226-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-232",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-232/CFD-LF-232-199-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-232",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-232/CFD-BM-232-213-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-009",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-009/CFD-BM-009-002-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-257",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-257/CFD-WM-257-161-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "AM-214",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-214/CFD-AM-214-168-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-204",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-204/CFD-LF-204-133-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "BM-204",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-204/CFD-BM-204-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-036",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-036/CFD-BM-036-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "LF-203",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/LF-203/CFD-LF-203-066-N.jpg"
-        ],
-        "ethnicity": "latino",
-        "gender": "female"
+        ]
       },
       {
         "id": "AM-213",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/AM-213/CFD-AM-213-056-N.jpg"
-        ],
-        "ethnicity": "asian",
-        "gender": "male"
+        ]
       },
       {
         "id": "WM-250",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/WM-250/CFD-WM-250-157-N.jpg"
-        ],
-        "ethnicity": "white",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-031",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-031/CFD-BM-031-003-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "BM-203",
         "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD/BM-203/CFD-BM-203-001-N.jpg"
-        ],
-        "ethnicity": "black",
-        "gender": "male"
+        ]
       },
       {
         "id": "IM-684-008",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-684-008-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "32"
+        ]
       },
       {
         "id": "IF-742-103",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-742-103-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "25"
+        ]
       },
       {
         "id": "IM-630-134",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-630-134-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "21"
+        ]
       },
       {
         "id": "IM-616-214",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-616-214-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "27"
+        ]
       },
       {
         "id": "IF-723-255",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-723-255-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "22"
+        ]
       },
       {
         "id": "IM-725-142",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-725-142-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "20"
+        ]
       },
       {
         "id": "IM-702-101",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-702-101-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "18"
+        ]
       },
       {
         "id": "IM-720-014",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-720-014-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "18"
+        ]
       },
       {
         "id": "IF-665-015",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-665-015-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "41"
+        ]
       },
       {
         "id": "IM-708-362",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-708-362-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "42"
+        ]
       },
       {
         "id": "IF-672-305",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-672-305-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "38"
+        ]
       },
       {
         "id": "IM-615-167",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-615-167-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "24"
+        ]
       },
       {
         "id": "IM-739-012",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-739-012-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "27"
-      },
-      {
-        "id": "IM-739-012",
-        "imagePaths": [
-          "chicago/CFD-INDIA/CFD-IM-739-012-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "27"
+        ]
       },
       {
         "id": "IM-675-015",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-675-015-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "23"
+        ]
       },
       {
         "id": "IF-644-306-1",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-644-306/CFD-IF-644-306-1-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "32"
+        ]
       },
       {
         "id": "IM-628-176",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-628-176-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "29"
+        ]
       },
       {
         "id": "IF-642-295",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-642-295-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "21"
+        ]
       },
       {
         "id": "IF-732-260",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-732-260-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "28"
-      },
-      {
-        "id": "IF-732-260",
-        "imagePaths": [
-          "chicago/CFD-INDIA/CFD-IF-732-260-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "28"
+        ]
       },
       {
         "id": "IM-664-651",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-664-651-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "35"
+        ]
       },
       {
         "id": "IF-612-149",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-612-149-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "22"
+        ]
       },
       {
         "id": "IM-709-103",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-709-103-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "26"
+        ]
       },
       {
         "id": "IM-683-231",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-683-231-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "21"
+        ]
       },
       {
         "id": "IM-666-372",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-666-372-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "25"
+        ]
       },
       {
         "id": "IM-687-511",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-687-511-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "23"
+        ]
       },
       {
         "id": "IF-631-363",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-631-363-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "21"
+        ]
       },
       {
         "id": "IM-679-069",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-679-069-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "20"
+        ]
       },
       {
         "id": "IF-625-225",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-625-225-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "21"
+        ]
       },
       {
         "id": "IF-650-315",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-650-315-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "28"
+        ]
       },
       {
         "id": "IM-640-009",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-640-009-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "29"
+        ]
       },
       {
         "id": "IM-604-014",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-604-014-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "30"
+        ]
       },
       {
         "id": "IM-617-174",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-617-174-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "49"
+        ]
       },
       {
         "id": "IF-626-375",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-626-375-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "21"
+        ]
       },
       {
         "id": "IF-605-066",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-605-066-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "49"
+        ]
       },
       {
         "id": "IM-731-223",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-731-223-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "24"
+        ]
       },
       {
         "id": "IF-649-016",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-649-016-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "25"
+        ]
       },
       {
         "id": "IM-726-248",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-726-248-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "25"
+        ]
       },
       {
         "id": "IM-627-178",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-627-178-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "22"
+        ]
       },
       {
         "id": "IM-697-015",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-697-015-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "18"
+        ]
       },
       {
         "id": "IF-618-212",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-618-212-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "45"
+        ]
       },
       {
         "id": "IM-736-361",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-736-361-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "30"
+        ]
       },
       {
         "id": "IF-691-007",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-691-007-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "20"
+        ]
       },
       {
         "id": "IM-655-234",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-655-234-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "40"
+        ]
       },
       {
         "id": "IM-645-001",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-645-001-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "34"
+        ]
       },
       {
         "id": "IF-601-519",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-601-519-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "34"
+        ]
       },
       {
         "id": "IF-705-196",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-705-196-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "19"
+        ]
       },
       {
         "id": "IM-701-312",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-701-312-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "18"
+        ]
       },
       {
         "id": "IF-676-017",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-676-017-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "40"
+        ]
       },
       {
         "id": "IM-652-191",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-652-191-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "39"
+        ]
       },
       {
         "id": "IM-715-013",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-715-013-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "19"
+        ]
       },
       {
         "id": "IM-699-002",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-699-002-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "19"
+        ]
       },
       {
         "id": "IF-668-009",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-668-009-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "27"
+        ]
       },
       {
         "id": "IF-609-408",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-609-408-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "50"
+        ]
       },
       {
         "id": "IM-639-263",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-639-263-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "42"
+        ]
       },
       {
         "id": "IM-667-369",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-667-369-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "28"
+        ]
       },
       {
         "id": "IM-700-009",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-700-009-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "19"
+        ]
       },
       {
         "id": "IF-718-001",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-718-001-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "20"
+        ]
       },
       {
         "id": "IM-738-191",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-738-191-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "49"
+        ]
       },
       {
         "id": "IM-661-254",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-661-254-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "34"
+        ]
       },
       {
         "id": "IF-710-016",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-710-016-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "19"
+        ]
       },
       {
         "id": "IM-695-001",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-695-001-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "18"
+        ]
       },
       {
         "id": "IM-678-482",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-678-482-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "30"
+        ]
       },
       {
         "id": "IF-619-197",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-619-197-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "21"
+        ]
       },
       {
         "id": "IF-693-172",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-693-172-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "22"
+        ]
       },
       {
         "id": "IM-703-182",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-703-182-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "19"
+        ]
       },
       {
         "id": "IF-633-012",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-633-012-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "27"
+        ]
       },
       {
         "id": "IM-607-018",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-607-018-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "22"
+        ]
       },
       {
         "id": "IM-727-195",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-727-195-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "25"
+        ]
       },
       {
         "id": "IM-653-008",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-653-008-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "21"
+        ]
       },
       {
         "id": "IM-728-041",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-728-041-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "20"
+        ]
       },
       {
         "id": "IF-729-393",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-729-393-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "21"
+        ]
       },
       {
         "id": "IM-740-273",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-740-273-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "23"
+        ]
       },
       {
         "id": "IF-608-390",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-608-390-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "22"
+        ]
       },
       {
         "id": "IM-646-023",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-646-023-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "32"
+        ]
       },
       {
         "id": "IM-694-297",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-694-297-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "18"
+        ]
       },
       {
         "id": "IM-671-601",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-671-601-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "24"
+        ]
       },
       {
         "id": "IM-743-006",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-743-006-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "28"
+        ]
       },
       {
         "id": "IM-692-011",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-692-011-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "25"
+        ]
       },
       {
         "id": "IF-735-353",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-735-353-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "22"
+        ]
       },
       {
         "id": "IM-724-010",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-724-010-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "36"
+        ]
       },
       {
         "id": "IM-657-308",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-657-308-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "24"
+        ]
       },
       {
         "id": "IF-714-008-1",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-714-008/CFD-IF-714-008-1-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "45"
+        ]
       },
       {
         "id": "IM-638-250-1",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-638-250/CFD-IM-638-250-1-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male"
+        ]
       },
       {
         "id": "IF-677-452-1",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-677-452/CFD-IF-677-452-1-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "40"
+        ]
       },
       {
         "id": "IF-614-107",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-614-107-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "35"
+        ]
       },
       {
         "id": "IF-610-766",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-610-766-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "20"
+        ]
       },
       {
         "id": "IM-663-230",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-663-230-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "30"
+        ]
       },
       {
         "id": "IM-716-316",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-716-316-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "18"
+        ]
       },
       {
         "id": "IM-717-110",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-717-110-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "20"
+        ]
       },
       {
         "id": "IM-721-341",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-721-341-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "21"
+        ]
       },
       {
         "id": "IM-632-097",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-632-097-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "30"
+        ]
       },
       {
         "id": "IF-620-218",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-620-218-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "19"
+        ]
       },
       {
         "id": "IF-704-125",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-704-125-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "29"
+        ]
       },
       {
         "id": "IM-689-263",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-689-263-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "28"
+        ]
       },
       {
         "id": "IF-660-464",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-660-464-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "26"
+        ]
       },
       {
         "id": "IM-651-308",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-651-308-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "24"
+        ]
       },
       {
         "id": "IM-606-008",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-606-008-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "50"
+        ]
       },
       {
         "id": "IM-648-337",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-648-337-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "29"
+        ]
       },
       {
         "id": "IM-670-215",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-670-215-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "34"
+        ]
       },
       {
         "id": "IF-722-456",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-722-456-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "35"
+        ]
       },
       {
         "id": "IM-662-171",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-662-171-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "21"
+        ]
       },
       {
         "id": "IM-603-305",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-603-305-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "21"
+        ]
       },
       {
         "id": "IM-658-284",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-658-284-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "35"
+        ]
       },
       {
         "id": "IM-656-273",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-656-273-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "40"
+        ]
       },
       {
         "id": "IM-637-007",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-637-007-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "35"
+        ]
       },
       {
         "id": "IM-685-004",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-685-004-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "28"
+        ]
       },
       {
         "id": "IM-712-005",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-712-005-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "19"
+        ]
       },
       {
         "id": "IM-696-001",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-696-001-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "18"
+        ]
       },
       {
         "id": "IF-634-382",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-634-382-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "35"
+        ]
       },
       {
         "id": "IF-623-129",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-623-129-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "20"
+        ]
       },
       {
         "id": "IM-674-281",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-674-281-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "30"
+        ]
       },
       {
         "id": "IF-622-096",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-622-096-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "21"
+        ]
       },
       {
         "id": "IF-641-504",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-641-504-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "23"
+        ]
       },
       {
         "id": "IM-706-002",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-706-002-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "22"
+        ]
       },
       {
         "id": "IF-744-114",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-744-114-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "23"
+        ]
       },
       {
         "id": "IM-686-097",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-686-097-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "32"
+        ]
       },
       {
         "id": "IF-673-389",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-673-389-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "32"
+        ]
       },
       {
         "id": "IM-707-105",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-707-105-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "27"
+        ]
       },
       {
         "id": "IM-669-111",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-669-111-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "28"
+        ]
       },
       {
         "id": "IF-734-108",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-734-108-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "23"
+        ]
       },
       {
         "id": "IM-690-282",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-690-282-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "29"
+        ]
       },
       {
         "id": "IF-741-040",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-741-040-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "24"
+        ]
       },
       {
         "id": "IM-711-011",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-711-011-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "19"
+        ]
       },
       {
         "id": "IM-613-169",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-613-169-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "21"
+        ]
       },
       {
         "id": "IM-611-306",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-611-306-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "34"
+        ]
       },
       {
         "id": "IM-635-010",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-635-010-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "32"
+        ]
       },
       {
         "id": "IF-730-410",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-730-410-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "21"
+        ]
       },
       {
         "id": "IF-629-234",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-629-234-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "27"
+        ]
       },
       {
         "id": "IF-636-011",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-636-011-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "33"
+        ]
       },
       {
         "id": "IF-737-104",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-737-104-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "49"
+        ]
       },
       {
         "id": "IF-733-110",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-733-110-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "20"
+        ]
       },
       {
         "id": "IM-682-019",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-682-019-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "22"
+        ]
       },
       {
         "id": "IM-647-548",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-647-548-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "32"
+        ]
       },
       {
         "id": "IM-688-322",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-688-322-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "22"
+        ]
       },
       {
         "id": "IM-719-221",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-719-221-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "18"
+        ]
       },
       {
         "id": "IM-621-136",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-621-136-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "26"
+        ]
       },
       {
         "id": "IF-713-170",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-713-170-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "18"
+        ]
       },
       {
         "id": "IM-659-359",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-659-359-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "35"
+        ]
       },
       {
         "id": "IM-654-417",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-654-417-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "45"
+        ]
       },
       {
         "id": "IM-698-011",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-698-011-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "18"
+        ]
       },
       {
         "id": "IM-681-253",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-681-253-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "21"
+        ]
       },
       {
         "id": "IM-680-369",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IM-680-369-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "male",
-        "age": "21"
+        ]
       },
       {
         "id": "IF-602-134",
+        "datasetName": "chicago",
         "imagePaths": [
           "chicago/CFD-INDIA/CFD-IF-602-134-N.jpg"
-        ],
-        "ethnicity": "indian",
-        "gender": "female",
-        "age": "21"
+        ]
+      },
+      {
+        "id": "MF-330-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-330-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-361-006",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-361-006-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-354-067",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-354-067-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-325-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-325-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-344-012",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-344-012-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-324-069",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-324-069-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-311-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-311-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-349-036",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-349-036-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-347-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-347-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-319-016",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-319-016-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-329-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-329-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-323-053",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-323-053-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-309-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-309-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-308-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-308-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-312-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-312-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-353-204",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-353-204-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-333-012",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-333-012-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-351-017",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-351-017-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-337-026",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-337-026-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-350-029",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-350-029-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-358-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-358-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-328-020",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-328-020-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-341-018",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-341-018-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-318-003",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-318-003-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-359-019",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-359-019-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-340-026",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-340-026-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-316-156",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-316-156-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-355-022",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-355-022-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-321-021",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-321-021-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-304-018",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-304-018-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-356-017",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-356-017-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-322-020",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-322-020-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-313-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-313-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-320-124",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-320-124-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-310-027",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-310-027-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-307-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-307-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-316-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-316-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-326-016",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-326-016-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-323-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-323-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-314-062",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-314-062-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-317-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-317-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-360-106",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-360-106-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-302-027",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-302-027-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-332-014",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-332-014-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-305-003",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-305-003-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-348-018",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-348-018-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-327-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-327-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-312-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-312-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-342-022",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-342-022-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-331-010",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-331-010-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-308-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-308-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-304-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-304-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-345-025",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-345-025-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-311-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-311-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-306-010",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-306-010-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-325-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-325-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-301-011",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-301-011-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-300-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-300-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-303-013",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-303-013-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-324-031",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-324-031-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-335-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-335-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-343-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-343-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-302-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-302-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-315-013",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-315-013-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-318-022",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-318-022-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-336-016",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-336-016-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-346-008",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-346-008-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-352-054",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-352-054-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-307-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-307-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-313-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-313-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-319-052",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-319-052-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-306-003",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-306-003-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-309-027",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-309-027-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-310-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-310-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-315-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-315-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-314-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-314-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-317-061",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-317-061-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-334-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-334-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-300-035",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-300-035-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-320-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-320-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-322-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-322-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-301-024",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-301-024-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-338-001",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-338-001-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-339-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-339-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MM-303-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MM-303-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-357-002",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-357-002-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-321-003",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-321-003-N.jpg"
+        ]
+      },
+      {
+        "id": "MF-305-014",
+        "datasetName": "chicago",
+        "imagePaths": [
+          "chicago/CFD-MR/CFD-MF-305-014-N.jpg"
+        ]
       }
     ]
   },
