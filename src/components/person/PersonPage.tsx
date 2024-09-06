@@ -87,5 +87,3 @@ const PersonPage = ({
 };
 
 export default PersonPage;
-// /src/assets/datasets//src/assets/datasets/muct/muct-c-jpg-v1/i228tc-mg.jpg
-// /src/assets/datasets/muct/muct-c-jpg-v1/i228tc-mg.jpg
