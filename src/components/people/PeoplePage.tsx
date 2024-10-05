@@ -45,7 +45,8 @@ const PeoplePage = ({
   return (
     <div className="h-full flex flex-col">
       <div className="flex-1 overflow-auto flex flex-col justify-center">
-        <div className="overflow-auto flex gap-10 px-10">
+        {/* No overflow auto to preserve star */}
+        <div className="flex gap-10 px-10">
           {people.map((person, i) => (
             <div key={i} className="flex-1 relative">
               <Link
