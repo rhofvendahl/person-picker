@@ -32,7 +32,7 @@ const PersonPage = ({
 
   return (
     <div className="h-full flex flex-col">
-      <div className="flex-1 overflow-auto flex flex-col justify-center">
+      <div className="flex-1 overflow-auto flex flex-col gap-1 justify-center">
         <div className="overflow-auto flex px-10 gap-1">
           {person.datasetName === "muct" &&
             person.imagePaths
@@ -57,6 +57,19 @@ const PersonPage = ({
             </div>
           ))}
         </div>
+        {person.datasetName === "london" && (
+          <div className="overflow-auto flex px-10 gap-1">
+            {person.smilingImagePaths.map((imagePath, i) => (
+              <div key={i} className="flex-1">
+                <PersonImage
+                  imagePath={formatImagePath(imagePath)}
+                  reverse={false}
+                  openModal={true}
+                />
+              </div>
+            ))}
+          </div>
+        )}
       </div>
       <div className="h-14 bg-gray-800 flex items-center justify-center gap-6">
         <button

@@ -6,6 +6,7 @@ export type Person = {
   id: string;
   datasetName: DatasetName;
   imagePaths: string[];
+  smilingImagePaths: string[];
   ethnicity?: string;
   gender?: string;
   age?: string;
@@ -37,7 +38,10 @@ export const formatImagePath = (imagePath: string): string => {
   return `/${BASE_URL}/${imagePath}`;
 };
 
-export const getPrimaryImagePath = (person: Person): string => {
+export const getPrimaryImagePath = (
+  person: Person,
+  smiling: boolean = false
+): string => {
   if (person.imagePaths.length === 0) {
     return "";
   }
@@ -46,7 +50,9 @@ export const getPrimaryImagePath = (person: Person): string => {
     case "chicago":
       return formatImagePath(person.imagePaths[0]);
     case "london":
-      return formatImagePath(person.imagePaths[2]);
+      return formatImagePath(
+        smiling ? person.smilingImagePaths[2] : person.imagePaths[2]
+      );
     case "muct":
       return formatImagePath(person.imagePaths[0]);
     case "tpdne":
@@ -222,9 +228,14 @@ const getPickImage = (imagePath: string, reverse: boolean): PickImage => {
   return { path: formatImagePath(imagePath), reverse };
 };
 
-const getLondonImages = (person: Person): PickImage[] => {
-  return person.imagePaths.map((imagePath) => getPickImage(imagePath, false));
+const getLondonImages = (
+  person: Person,
+  smiling: boolean = false
+): PickImage[] => {
+  const imagePaths = smiling ? person.smilingImagePaths : person.imagePaths;
+  return imagePaths.map((imagePath) => getPickImage(imagePath, false));
 };
+
 const getMuctImages = (person: Person): PickImage[] => {
   const reversed = person.imagePaths
     .slice(1)
@@ -236,7 +247,10 @@ const getMuctImages = (person: Person): PickImage[] => {
   ];
 };
 
-export const getImagesFromPicks = (picks: Person[]): PickImage[] => {
+export const getImagesFromPicks = (
+  picks: Person[],
+  smiling: boolean = false
+): PickImage[] => {
   if (picks.length === 0) {
     return [];
   }
@@ -244,13 +258,13 @@ export const getImagesFromPicks = (picks: Person[]): PickImage[] => {
   switch (picks[0].datasetName) {
     // London has a great set of images - discard second pick
     case "london": {
-      return getLondonImages(picks[0]);
+      return getLondonImages(picks[0], smiling);
     }
     case "muct": {
       const muctImages = getMuctImages(picks[0]);
       // If secondpick is london, that should replace the non-front views
       if (picks.length > 1 && picks[1].datasetName === "london") {
-        const newSet = [...getLondonImages(picks[1])];
+        const newSet = [...getLondonImages(picks[1], smiling)];
         newSet[2] = muctImages[2];
         return newSet;
       }
@@ -275,7 +289,7 @@ export const getImagesFromPicks = (picks: Person[]): PickImage[] => {
       // The second pick should then be london or muct
       let newSet: PickImage[] = [];
       if (picks[1].datasetName === "london") {
-        newSet = [...getLondonImages(picks[1])];
+        newSet = [...getLondonImages(picks[1], smiling)];
       }
       if (picks[1].datasetName === "muct") {
         newSet = [...getMuctImages(picks[1])];

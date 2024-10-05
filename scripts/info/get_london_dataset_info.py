@@ -7,11 +7,18 @@ DATASET_NAME = "london"
 
 # Ensure images are ordered by angle
 # (modifies inplace + returns, but whatever)
-def place_image_path(image_paths, new_path, filename):
-    # NOTE: There are actually 5 neutral and 5 smiling, but for now I'm discarding the smiling
+def place_image_path(image_paths, new_path, filename, place_smiling=False):
     place = int(filename[-6:-4]) - 1
-    if place > 4:
+    # NOTE: Places 0-4 are neutral, 5-9 smiling. place_smiling == True indicates that
+    # the image_path should only be placed if it's a smiling image.
+    smiling_image = place > 4
+
+    if place_smiling != smiling_image:
+        # Return image_paths without placing the image
         return image_paths
+
+    if place_smiling:
+        place = place - 5
 
     image_paths[place] = new_path
     return image_paths
@@ -44,6 +51,12 @@ def get_london_people(path_base: str):
                             path_relative,
                             filename,
                         ),
+                        "smilingImagePaths": place_image_path(
+                            [""] * 5,
+                            path_relative,
+                            filename,
+                            True,
+                        ),
                     }
                 )
             else:
@@ -51,6 +64,12 @@ def get_london_people(path_base: str):
                     matches[0]["imagePaths"],
                     path_relative,
                     filename,
+                )
+                matches[0]["smilingImagePaths"] = place_image_path(
+                    matches[0]["smilingImagePaths"],
+                    path_relative,
+                    filename,
+                    True,
                 )
 
     return people

@@ -43,6 +43,7 @@ const StarsPage = ({
 }) => {
   const [picking, setPicking] = useState(false);
   const [picks, setPicks] = useState<Person[]>([]);
+  const [showSmiling, setShowSmiling] = useState(false);
 
   const navigate = useNavigate();
 
@@ -92,7 +93,7 @@ const StarsPage = ({
                     )}
 
                   <PersonImage
-                    imagePath={getPrimaryImagePath(person)}
+                    imagePath={getPrimaryImagePath(person, showSmiling)}
                     reverse={true}
                     openModal={false}
                   />
@@ -105,7 +106,7 @@ const StarsPage = ({
             )}
           </div>
           <div className="px-5 mt-5 max-h-80">
-            <ExportImage pickImages={getImagesFromPicks(picks)} />
+            <ExportImage pickImages={getImagesFromPicks(picks, showSmiling)} />
           </div>
         </div>
         <div className="h-14 bg-gray-800 flex items-center justify-center gap-6">
@@ -123,7 +124,15 @@ const StarsPage = ({
             }}
           >
             <FontAwesomeIcon icon={faArrowUpFromBracket} className="mr-2" />
-            {picking ? "Stop picking" : "Pick images to export"}
+            {picking ? "Show smili" : "Pick images to export"}
+          </button>
+          <button
+            className={`rounded px-2 py-1 flex items-center ${
+              showSmiling ? "bg-gray-900 text-gray-200" : "bg-gray-500"
+            }`}
+            onClick={() => setShowSmiling(!showSmiling)}
+          >
+            {showSmiling ? "Show neutral" : "Show smiling"}
           </button>
         </div>
       </div>
