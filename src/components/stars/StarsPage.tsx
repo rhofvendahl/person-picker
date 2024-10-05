@@ -124,7 +124,7 @@ const StarsPage = ({
             }}
           >
             <FontAwesomeIcon icon={faArrowUpFromBracket} className="mr-2" />
-            {picking ? "Show smili" : "Pick images to export"}
+            {picking ? "Stop picking" : "Pick images to export"}
           </button>
           <button
             className={`rounded px-2 py-1 flex items-center ${
