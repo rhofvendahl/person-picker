@@ -43,7 +43,7 @@ const StarsPage = ({
 }) => {
   const [picking, setPicking] = useState(false);
   const [picks, setPicks] = useState<Person[]>([]);
-  const [showSmiling, setShowSmiling] = useState(false);
+  const [showSmiling, setShowSmiling] = useState(true);
 
   const navigate = useNavigate();
 
