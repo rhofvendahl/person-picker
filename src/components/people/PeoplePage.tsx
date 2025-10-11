@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, useCallback } from "react";
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
@@ -22,6 +22,10 @@ const PeoplePage = ({
   stars,
   smiling,
   handleSetSmiling,
+  history,
+  handleSetHistory,
+  showRepeats,
+  handleSetShowRepeats,
 }: {
   datasets: Dataset[];
   people: Person[];
@@ -31,20 +35,44 @@ const PeoplePage = ({
   stars: string[];
   smiling: boolean;
   handleSetSmiling: (smiling: boolean) => void;
+  history: Person[];
+  handleSetHistory: (history: Person[]) => void;
+  showRepeats: boolean;
+  handleSetShowRepeats: (showRepeats: boolean) => void;
 }) => {
+  // Needs to be wrapped in useCallback for use in useEffect
+  const shuffle = useCallback(
+    (n: number = people.length) => {
+      const newPeople = sampleDataset(
+        getDatasetByName(datasets, datasetName),
+        n,
+        showRepeats ? [] : history
+      );
+      handleSetPeople(newPeople);
+      handleSetHistory(history.concat(newPeople));
+    },
+    [
+      datasets,
+      datasetName,
+      history,
+      showRepeats,
+      people.length,
+      handleSetPeople,
+      handleSetHistory,
+    ]
+  );
+
   useEffect(() => {
     const handleSpace = (event: KeyboardEvent) => {
       if (event.code === "Space") {
-        handleSetPeople(
-          sampleDataset(getDatasetByName(datasets, datasetName), people.length)
-        );
+        shuffle();
       }
     };
     window.addEventListener("keydown", handleSpace);
 
     // Remove handler on unmount
     return () => window.removeEventListener("keydown", handleSpace);
-  }, [datasets, datasetName, people.length, handleSetPeople]);
+  }, [shuffle]);
 
   return (
     <div className="h-full flex flex-col">
@@ -88,14 +116,16 @@ const PeoplePage = ({
             min="1"
             max="5"
             value={people.length}
-            onChange={(event) =>
-              handleSetPeople(
-                sampleDataset(
-                  getDatasetByName(datasets, datasetName),
-                  parseInt(event.target.value)
-                )
-              )
-            }
+            onChange={(event) => shuffle(parseInt(event.target.value))}
+          />
+        </label>
+        <label>
+          <span className="text-gray-200 mr-1">Repeat</span>
+          <input
+            type="checkbox"
+            className="mr-2 accent-gray-500 bg-black"
+            checked={showRepeats}
+            onChange={(e) => handleSetShowRepeats(e.target.checked)}
           />
         </label>
         <label>
@@ -121,29 +151,18 @@ const PeoplePage = ({
         </label>
         {datasetName === "london" && (
           <label>
-            <span className="text-gray-200 mr-1">Face</span>
-            <select
-              className="p-1 rounded bg-gray-500"
-              value={smiling ? "smiling" : "neutral"}
-              onChange={(event) => {
-                handleSetSmiling(event.target.value === "smiling");
-              }}
-            >
-              <option value="neutral">Neutral</option>
-              <option value="smiling">Smiling</option>
-            </select>
+            <span className="text-gray-200 mr-1">Smiling</span>
+            <input
+              type="checkbox"
+              className="mr-2 accent-gray-500 bg-black"
+              checked={smiling}
+              onChange={(e) => handleSetSmiling(e.target.checked)}
+            />
           </label>
         )}
         <button
           className="rounded px-2 py-1 bg-green-500"
-          onClick={() =>
-            handleSetPeople(
-              sampleDataset(
-                getDatasetByName(datasets, datasetName),
-                people.length
-              )
-            )
-          }
+          onClick={() => shuffle()}
         >
           Go
         </button>

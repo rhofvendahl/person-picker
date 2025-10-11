@@ -117,7 +117,10 @@ const App = () => {
   };
 
   // Only relevant for initial display of London people
-  const [smiling, setSmiling] = useState(false);
+  const [smiling, setSmiling] = useState(true);
+
+  const [history, setHistory] = useState<Person[]>([]);
+  const [showRepeats, setShowRepeats] = useState(true);
 
   return (
     <div className="bg-gray-900 h-full flex flex-col">
@@ -165,6 +168,10 @@ const App = () => {
                 stars={stars}
                 smiling={smiling}
                 handleSetSmiling={setSmiling}
+                history={history}
+                handleSetHistory={setHistory}
+                showRepeats={showRepeats}
+                handleSetShowRepeats={setShowRepeats}
               />
             }
           ></Route>

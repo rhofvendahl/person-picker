@@ -29,8 +29,14 @@ export const getDatasets = (): Dataset[] => {
   return datasetInfo as Dataset[];
 };
 
-export const sampleDataset = (dataset: Dataset, n: number): Person[] => {
-  const shuffled = dataset.people.sort(() => 0.5 - Math.random());
+export const sampleDataset = (
+  dataset: Dataset,
+  n: number,
+  exclude: Person[] = []
+): Person[] => {
+  const shuffled = dataset.people
+    .filter((person) => !exclude.includes(person))
+    .sort(() => 0.5 - Math.random());
   return shuffled.slice(0, n);
 };
 
