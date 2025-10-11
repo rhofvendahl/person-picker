@@ -20,6 +20,8 @@ const PeoplePage = ({
   datasetName,
   handleSetDatasetName,
   stars,
+  smiling,
+  handleSetSmiling,
 }: {
   datasets: Dataset[];
   people: Person[];
@@ -27,6 +29,8 @@ const PeoplePage = ({
   datasetName: DatasetName;
   handleSetDatasetName: (datasetName: DatasetName) => void;
   stars: string[];
+  smiling: boolean;
+  handleSetSmiling: (smiling: boolean) => void;
 }) => {
   useEffect(() => {
     const handleSpace = (event: KeyboardEvent) => {
@@ -58,7 +62,7 @@ const PeoplePage = ({
                 }}
               >
                 <PersonImage
-                  imagePath={getPrimaryImagePath(person)}
+                  imagePath={getPrimaryImagePath(person, smiling)}
                   reverse={false}
                   openModal={false}
                 />
@@ -115,6 +119,21 @@ const PeoplePage = ({
             <option value="tpdne">TPDNE</option>
           </select>
         </label>
+        {datasetName === "london" && (
+          <label>
+            <span className="text-gray-200 mr-1">Face</span>
+            <select
+              className="p-1 rounded bg-gray-500"
+              value={smiling ? "smiling" : "neutral"}
+              onChange={(event) => {
+                handleSetSmiling(event.target.value === "smiling");
+              }}
+            >
+              <option value="neutral">Neutral</option>
+              <option value="smiling">Smiling</option>
+            </select>
+          </label>
+        )}
         <button
           className="rounded px-2 py-1 bg-green-500"
           onClick={() =>

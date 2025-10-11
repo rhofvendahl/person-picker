@@ -116,6 +116,9 @@ const App = () => {
     setStars(newStars);
   };
 
+  // Only relevant for initial display of London people
+  const [smiling, setSmiling] = useState(false);
+
   return (
     <div className="bg-gray-900 h-full flex flex-col">
       <div className="bg-gray-850 h-10 flex gap-2 items-center justify-end px-2">
@@ -160,6 +163,8 @@ const App = () => {
                 datasetName={datasetName}
                 handleSetDatasetName={setDatasetName}
                 stars={stars}
+                smiling={smiling}
+                handleSetSmiling={setSmiling}
               />
             }
           ></Route>
